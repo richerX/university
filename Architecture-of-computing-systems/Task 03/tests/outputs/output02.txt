@@ -1,0 +1,23 @@
+Filled container with 20 animals.
+Value sum = 7.10382.
+   Rhhmq     |  Fish  (   River    )  8468gr. (value = 0.06046)
+   Yopiy     |  Bird  ( Stay home  )  7527gr. (value = 0.07148)
+   Knrrtt    |  Beast (Insectivores)  8236gr. (value = 0.07831)
+   Vlvtii    |  Beast (Insectivores)  6540gr. (value = 0.09755)
+  Axrliglt   |  Fish  (    Lake    )  8330gr. (value = 0.10072)
+   Olewoq    |  Bird  (Fly far away)  6044gr. (value = 0.10440)
+   Nvndks    |  Bird  (Fly far away)  5746gr. (value = 0.10929)
+ Xfnqqpglo   |  Bird  ( Stay home  )  7810gr. (value = 0.12292)
+Khtuclvmmpsb |  Bird  (Fly far away)  8625gr. (value = 0.14841)
+Nuqfthyxhqb  |  Bird  ( Stay home  )  7668gr. (value = 0.15467)
+  Waytryp    |  Bird  ( Stay home  )  2975gr. (value = 0.25815)
+  Flhxkeck   |  Bird  ( Stay home  )  3022gr. (value = 0.27002)
+    Nuyf     |  Bird  ( Stay home  )  1392gr. (value = 0.30029)
+ Cfqahjnzro  |  Bird  (Fly far away)  3446gr. (value = 0.30354)
+ Dawuzqiij   |  Beast ( Herbivores )  2992gr. (value = 0.31818)
+ Krkhpotnwz  |  Bird  (Fly far away)  2934gr. (value = 0.37151)
+  Jwqvhhd    |  Fish  (    Lake    )  1439gr. (value = 0.50869)
+  Qjeplbui   |  Beast ( Herbivores )  1604gr. (value = 0.51621)
+   Dnyjx     |  Bird  ( Stay home  )  460gr.  (value = 1.14130)
+ Qahifigmn   |  Bird  (  Fly away  )  443gr.  (value = 2.06772)
+Total time = 0.00794 seconds.

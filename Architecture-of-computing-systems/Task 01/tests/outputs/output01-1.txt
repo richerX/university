@@ -1,0 +1,5 @@
+Filled container:
+Container contains 3 elements.
+1: It is Beast: name = Beast, weight = 6341, value = 0.078063, type = INSECTIVORES
+2: It is Bird : name = Bird1, weight = 1200, value = 0.361667, fly away = TRUE
+3: It is Fish : name = Fish1, weight = 500, value = 0.886000, place = SEA

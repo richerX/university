@@ -1,0 +1,3 @@
+0 FishName 500 1
+1 BirdName 1200 1
+2 Beastname 6341 2

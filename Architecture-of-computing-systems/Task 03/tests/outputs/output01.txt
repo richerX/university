@@ -1,0 +1,6 @@
+Filled container with 3 animals.
+Value sum = 0.37557.
+ Bskpsxfmh   |  Fish  (    Lake    )  9382gr. (value = 0.10126)
+Lqpdgmqcjul  |  Bird  (Fly far away)  9319gr. (value = 0.12405)
+   Musco     |  Fish  (    Lake    )  3454gr. (value = 0.15026)
+Total time = 0.00149 seconds.

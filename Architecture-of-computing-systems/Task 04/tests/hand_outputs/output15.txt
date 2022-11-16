@@ -1,0 +1,8 @@
+Container contains 6 elements.
+1) Stay home bird: name = Beast3, weight = 3500, value = 0.156000
+2) Fly away bird: name = Beast2, weight = 2000, value = 0.272500
+3) Stay home bird: name = Beast1, weight = 1000, value = 0.544000
+4) Predator beast: name = ThirdBird, weight = 300, value = 2.973333
+5) Herbivores beast: name = SecondBird, weight = 200, value = 4.945000
+6) Predator beast: name = FirstBird, weight = 100, value = 9.050000
+Total time = 0.000110sec.

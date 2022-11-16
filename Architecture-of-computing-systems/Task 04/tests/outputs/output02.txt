@@ -1,0 +1,22 @@
+Container contains 20 elements.
+1) Sea Fish: name = Apv, weight = 7528, value = 0.039187
+2) Lake fish: name = Gvdz, weight = 9142, value = 0.044957
+3) Lake fish: name = Nywbg, weight = 7748, value = 0.066985
+4) Fly away bird: name = Wsjk, weight = 4799, value = 0.086476
+5) Fly away bird: name = Afydvnzej, weight = 8486, value = 0.111360
+6) Herbivores beast: name = Fyfgdya, weight = 6280, value = 0.113694
+7) Predator beast: name = Irfscvfezrt, weight = 9248, value = 0.127163
+8) Fly away bird: name = Qxxcmldwawq, weight = 8490, value = 0.139576
+9) Predator beast: name = Hndfi, weight = 3495, value = 0.139914
+10) Fly away bird: name = Zywagrtjoe, weight = 7496, value = 0.143810
+11) Sea Fish: name = Zilcqqccosv, weight = 8086, value = 0.144695
+12) Fly away bird: name = Fkcnpqbgefz, weight = 7518, value = 0.151237
+13) Predator beast: name = Mjqke, weight = 2883, value = 0.174818
+14) Herbivores beast: name = Mrghkwzpdjf, weight = 5350, value = 0.217944
+15) Fly away bird: name = Oojjfddze, weight = 3923, value = 0.236299
+16) Fly away bird: name = Oeh, weight = 861, value = 0.329849
+17) Predator beast: name = Srlbwqhtgnd, weight = 2745, value = 0.425501
+18) Stay home bird: name = Jbtfchbq, weight = 1619, value = 0.496603
+19) Predator beast: name = Nchiqqzfoay, weight = 1883, value = 0.618694
+20) Sea Fish: name = Bmdkghoedp, weight = 1123, value = 0.902048
+Total time = 0.000233sec.

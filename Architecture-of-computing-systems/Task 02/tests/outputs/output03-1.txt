@@ -1,0 +1,22 @@
+Filled container:
+Container contains 20 elements.
+1: It is Beast : name = Htwd, weight = 964895, value = 0.000421808, type = PREDATOR
+2: It is Fish : name = Ofe, weight = 637264, value = 0.000442517, place = OCEAN
+3: It is Fish : name = Foyz, weight = 701563, value = 0.000604365, place = RIVER
+4: It is Bird : name = Jhao, weight = 502579, value = 0.000768038, fly away = TRUE
+5: It is Fish : name = Twzdr, weight = 669284, value = 0.000805338, place = SEA
+6: It is Fish : name = Mfexgnr, weight = 836392, value = 0.00086921, place = OCEAN
+7: It is Bird : name = Ebxezbjc, weight = 899563, value = 0.000903772, fly away = FALSE
+8: It is Bird : name = Yjkudac, weight = 788843, value = 0.000906391, fly away = TRUE
+9: It is Fish : name = Vcn, weight = 278704, value = 0.00105847, place = SEA
+10: It is Beast : name = Akhih, weight = 435053, value = 0.00111481, type = INSECTIVORES
+11: It is Fish : name = Dguldpjy, weight = 721436, value = 0.00115741, place = OCEAN
+12: It is Beast : name = Sxowdeu, weight = 612641, value = 0.00122584, type = PREDATOR
+13: It is Fish : name = Xdsl, weight = 298666, value = 0.00137612, place = RIVER
+14: It is Bird : name = Tjtrh, weight = 334176, value = 0.00156804, fly away = TRUE
+15: It is Beast : name = Exdtshmqo, weight = 363120, value = 0.00263549, type = HERBIVORES
+16: It is Fish : name = Rrtghxo, weight = 159553, value = 0.00470063, place = SEA
+17: It is Bird : name = Jmhaips, weight = 95289, value = 0.00751398, fly away = TRUE
+18: It is Bird : name = Lbzywuo, weight = 89403, value = 0.00854557, fly away = TRUE
+19: It is Bird : name = Ilwlsugjm, weight = 47255, value = 0.020273, fly away = TRUE
+20: It is Beast : name = Vdjsuexl, weight = 41286, value = 0.0206608, type = HERBIVORES

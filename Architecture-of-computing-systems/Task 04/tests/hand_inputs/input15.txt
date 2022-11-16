@@ -1,0 +1,6 @@
+1 FirstBird 100 0
+1 SecondBird 200 1
+1 ThirdBird 300 0
+2 Beast1 1000 1
+2 Beast2 2000 0
+2 Beast3 3500 1

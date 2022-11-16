@@ -1,0 +1,9 @@
+Filled container with 6 animals.
+Value sum = 17.94083.
+   Beast3    |  Beast (Insectivores)  3500gr. (value = 0.15600)
+   Beast2    |  Beast ( Herbivores )  2000gr. (value = 0.27250)
+   Beast1    |  Beast (  Predator  )  1000gr. (value = 0.54400)
+ ThirdBird   |  Bird  (Fly far away)  300gr.  (value = 2.97333)
+ SecondBird  |  Bird  (  Fly away  )  200gr.  (value = 4.94500)
+ FirstBird   |  Bird  ( Stay home  )  100gr.  (value = 9.05000)
+Total time = 0.00198 seconds.

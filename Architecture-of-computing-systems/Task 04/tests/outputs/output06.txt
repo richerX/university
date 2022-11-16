@@ -1,0 +1,502 @@
+Container contains 500 elements.
+1) Predator beast: name = Obf, weight = 9836, value = 0.028365
+2) Sea Fish: name = Scf, weight = 9383, value = 0.030268
+3) Sea Fish: name = Oxb, weight = 9726, value = 0.030537
+4) Sea Fish: name = Nrb, weight = 9437, value = 0.030730
+5) Herbivores beast: name = Hzt, weight = 9979, value = 0.031065
+6) Stay home bird: name = Jpj, weight = 8943, value = 0.032651
+7) Sea Fish: name = Ucq, weight = 9030, value = 0.032890
+8) Herbivores beast: name = Lgm, weight = 8650, value = 0.033295
+9) Fly away bird: name = Otb, weight = 8722, value = 0.033593
+10) Herbivores beast: name = Sgy, weight = 8636, value = 0.035549
+11) Predator beast: name = Ssn, weight = 8123, value = 0.037917
+12) Herbivores beast: name = Skq, weight = 7768, value = 0.039006
+13) Predator beast: name = Hfwi, weight = 9856, value = 0.040381
+14) Predator beast: name = Gogi, weight = 9648, value = 0.040423
+15) Lake fish: name = Yan, weight = 7239, value = 0.040890
+16) Sea Fish: name = Teu, weight = 7351, value = 0.041083
+17) Predator beast: name = Xia, weight = 6868, value = 0.042225
+18) Fly away bird: name = Zkqb, weight = 9466, value = 0.043102
+19) Predator beast: name = Roax, weight = 9397, value = 0.043631
+20) Predator beast: name = Fpw, weight = 6767, value = 0.044481
+21) Stay home bird: name = Bcjs, weight = 8648, value = 0.044635
+22) Stay home bird: name = Uvgn, weight = 9304, value = 0.044712
+23) Lake fish: name = Rjta, weight = 8299, value = 0.048319
+24) Sea Fish: name = Qloy, weight = 8651, value = 0.048665
+25) Lake fish: name = Gsqj, weight = 8263, value = 0.049014
+26) Stay home bird: name = Ylst, weight = 8708, value = 0.049150
+27) Sea Fish: name = Hkz, weight = 6118, value = 0.049199
+28) Fly away bird: name = Azp, weight = 5968, value = 0.050101
+29) Stay home bird: name = Fzudj, weight = 9939, value = 0.051816
+30) Herbivores beast: name = Qoxic, weight = 9933, value = 0.051948
+31) Predator beast: name = Ilc, weight = 5323, value = 0.052602
+32) Predator beast: name = Jaeis, weight = 9295, value = 0.052932
+33) Fly away bird: name = Limb, weight = 7181, value = 0.054031
+34) Stay home bird: name = Ohv, weight = 5504, value = 0.054688
+35) Stay home bird: name = Qkfe, weight = 7094, value = 0.055117
+36) Stay home bird: name = Kyi, weight = 5446, value = 0.055270
+37) Stay home bird: name = Cba, weight = 4609, value = 0.056845
+38) Sea Fish: name = Edhf, weight = 6578, value = 0.057008
+39) Lake fish: name = Gdjt, weight = 6730, value = 0.058395
+40) Stay home bird: name = Kut, weight = 5196, value = 0.059276
+41) Stay home bird: name = Mdk, weight = 4758, value = 0.059689
+42) Lake fish: name = Wlm, weight = 5051, value = 0.060186
+43) Sea Fish: name = Zhwtz, weight = 9136, value = 0.060311
+44) Lake fish: name = Wxjr, weight = 7012, value = 0.060896
+45) Lake fish: name = Laanhn, weight = 9690, value = 0.061300
+46) Predator beast: name = Svea, weight = 6353, value = 0.062805
+47) Lake fish: name = Oeivo, weight = 8145, value = 0.063106
+48) Herbivores beast: name = Zgfmo, weight = 8160, value = 0.063113
+49) Herbivores beast: name = Elbau, weight = 7735, value = 0.063219
+50) Stay home bird: name = Btvhqf, weight = 9700, value = 0.063814
+51) Herbivores beast: name = Meg, weight = 4390, value = 0.064009
+52) Lake fish: name = Dauy, weight = 6295, value = 0.064019
+53) Stay home bird: name = Dcci, weight = 5545, value = 0.066907
+54) Herbivores beast: name = Sio, weight = 4431, value = 0.067479
+55) Fly away bird: name = Msezxq, weight = 9570, value = 0.067712
+56) Fly away bird: name = Ykeuc, weight = 7520, value = 0.068218
+57) Sea Fish: name = Grqg, weight = 5873, value = 0.068279
+58) Lake fish: name = Xinvb, weight = 7586, value = 0.068416
+59) Herbivores beast: name = Faevdy, weight = 8659, value = 0.070100
+60) Sea Fish: name = Jzhhga, weight = 8607, value = 0.070175
+61) Stay home bird: name = Hopi, weight = 5641, value = 0.070909
+62) Herbivores beast: name = Muy, weight = 4441, value = 0.070930
+63) Lake fish: name = Geoe, weight = 5388, value = 0.071269
+64) Herbivores beast: name = Xtibzi, weight = 8811, value = 0.071956
+65) Lake fish: name = Yfa, weight = 3987, value = 0.072235
+66) Herbivores beast: name = Wjee, weight = 5468, value = 0.072238
+67) Stay home bird: name = Kfmy, weight = 5547, value = 0.073373
+68) Lake fish: name = Xaud, weight = 5457, value = 0.073667
+69) Lake fish: name = Dgl, weight = 3755, value = 0.074301
+70) Predator beast: name = Yqnxlw, weight = 8851, value = 0.074455
+71) Lake fish: name = Pcat, weight = 5243, value = 0.074766
+72) Fly away bird: name = Kdyyfl, weight = 8374, value = 0.074875
+73) Lake fish: name = Azswco, weight = 8395, value = 0.075164
+74) Sea Fish: name = Nlmcyqt, weight = 9861, value = 0.075449
+75) Lake fish: name = Vvvbxt, weight = 8596, value = 0.076315
+76) Fly away bird: name = Hlwmkst, weight = 9713, value = 0.076804
+77) Herbivores beast: name = Qudqas, weight = 8058, value = 0.077314
+78) Fly away bird: name = Vanmf, weight = 6412, value = 0.078603
+79) Herbivores beast: name = Udvpn, weight = 6626, value = 0.079233
+80) Sea Fish: name = Xrdz, weight = 5340, value = 0.079401
+81) Herbivores beast: name = Erjcgj, weight = 7512, value = 0.079473
+82) Stay home bird: name = Pqj, weight = 3746, value = 0.079818
+83) Fly away bird: name = Zmnnbgp, weight = 9156, value = 0.079948
+84) Predator beast: name = Mdagyol, weight = 8897, value = 0.080589
+85) Predator beast: name = Rrqzcdq, weight = 9168, value = 0.081043
+86) Fly away bird: name = Kjgiblt, weight = 8694, value = 0.081781
+87) Herbivores beast: name = Pmrxlw, weight = 7891, value = 0.082372
+88) Lake fish: name = Vpdxrtf, weight = 9101, value = 0.082409
+89) Sea Fish: name = Iytox, weight = 6539, value = 0.082734
+90) Sea Fish: name = Iordyh, weight = 7513, value = 0.082923
+91) Sea Fish: name = Irlgtn, weight = 7493, value = 0.083278
+92) Fly away bird: name = Hhxqwsm, weight = 8968, value = 0.083854
+93) Herbivores beast: name = Lrjommqe, weight = 9926, value = 0.084525
+94) Stay home bird: name = Jdvhisnd, weight = 9603, value = 0.086015
+95) Sea Fish: name = Mmsll, weight = 5963, value = 0.086701
+96) Fly away bird: name = Tddzlzv, weight = 8674, value = 0.086926
+97) Predator beast: name = Qimtyy, weight = 7508, value = 0.086974
+98) Stay home bird: name = Jhhmadc, weight = 7888, value = 0.087094
+99) Lake fish: name = Psqvv, weight = 6135, value = 0.088672
+100) Sea Fish: name = Vlup, weight = 4764, value = 0.088791
+101) Stay home bird: name = Bhyug, weight = 5701, value = 0.089633
+102) Fly away bird: name = Ylfkvred, weight = 9356, value = 0.089675
+103) Stay home bird: name = Vqpodymp, weight = 9591, value = 0.090084
+104) Sea Fish: name = Xptm, weight = 4659, value = 0.091221
+105) Stay home bird: name = Gdvny, weight = 5691, value = 0.091372
+106) Predator beast: name = Okfsinig, weight = 9029, value = 0.091483
+107) Herbivores beast: name = Lcfo, weight = 4214, value = 0.092074
+108) Fly away bird: name = Okzamno, weight = 7914, value = 0.092873
+109) Predator beast: name = Grlfzjw, weight = 7984, value = 0.092936
+110) Lake fish: name = Zgvedmps, weight = 9122, value = 0.092962
+111) Stay home bird: name = Afwj, weight = 4216, value = 0.092979
+112) Sea Fish: name = Kltg, weight = 4320, value = 0.093056
+113) Predator beast: name = Lzhgsr, weight = 6664, value = 0.095138
+114) Stay home bird: name = Tklefkn, weight = 7545, value = 0.095295
+115) Lake fish: name = Xsgdrg, weight = 6529, value = 0.095420
+116) Lake fish: name = Kadz, weight = 4104, value = 0.096004
+117) Herbivores beast: name = Erbdnwpgm, weight = 9668, value = 0.096607
+118) Stay home bird: name = Ahnthjkl, weight = 8415, value = 0.097445
+119) Predator beast: name = Vav, weight = 3071, value = 0.098014
+120) Predator beast: name = Wleuufjy, weight = 8714, value = 0.098577
+121) Herbivores beast: name = Wswmdve, weight = 7535, value = 0.099403
+122) Stay home bird: name = Lwccecb, weight = 6941, value = 0.099553
+123) Herbivores beast: name = Zxzjgsr, weight = 7728, value = 0.099638
+124) Fly away bird: name = Mpbydsas, weight = 8342, value = 0.100096
+125) Lake fish: name = Gliyafthj, weight = 9267, value = 0.100356
+126) Lake fish: name = Vjhbsztq, weight = 8564, value = 0.100420
+127) Herbivores beast: name = Qslkfiu, weight = 7313, value = 0.100506
+128) Herbivores beast: name = Aczzhls, weight = 7302, value = 0.100657
+129) Stay home bird: name = Ryzg, weight = 4234, value = 0.101086
+130) Fly away bird: name = Pos, weight = 3022, value = 0.101257
+131) Sea Fish: name = Wyxzvqe, weight = 7650, value = 0.102222
+132) Lake fish: name = Vbvvfooi, weight = 8305, value = 0.102228
+133) Stay home bird: name = Arbtdav, weight = 6916, value = 0.102371
+134) Sea Fish: name = Lyvhzdd, weight = 7188, value = 0.103088
+135) Predator beast: name = Mkgjbwx, weight = 7049, value = 0.103561
+136) Sea Fish: name = Wpenrd, weight = 5993, value = 0.104121
+137) Stay home bird: name = Aayavxm, weight = 6968, value = 0.104334
+138) Sea Fish: name = Rgedkciim, weight = 8724, value = 0.104425
+139) Stay home bird: name = Niyexxsfs, weight = 9294, value = 0.105122
+140) Fly away bird: name = Elvlkn, weight = 5897, value = 0.105138
+141) Stay home bird: name = Bgzhoiuqk, weight = 8937, value = 0.106076
+142) Predator beast: name = Vsyowr, weight = 6277, value = 0.106102
+143) Stay home bird: name = Mxkqjjjv, weight = 8018, value = 0.106386
+144) Fly away bird: name = Vlx, weight = 2951, value = 0.106405
+145) Lake fish: name = Fwwv, weight = 4000, value = 0.106500
+146) Fly away bird: name = Casdaap, weight = 6365, value = 0.107620
+147) Stay home bird: name = Blbgfynvmf, weight = 9604, value = 0.107976
+148) Fly away bird: name = Atuitjnzju, weight = 9987, value = 0.108141
+149) Predator beast: name = Fydrtyfmlt, weight = 9956, value = 0.108176
+150) Herbivores beast: name = Dmhjvltgz, weight = 8779, value = 0.108668
+151) Sea Fish: name = Dmaihdqdnn, weight = 9289, value = 0.109377
+152) Predator beast: name = Lvv, weight = 2842, value = 0.109782
+153) Sea Fish: name = Ojrnsct, weight = 6645, value = 0.111211
+154) Predator beast: name = Kdfy, weight = 3570, value = 0.111485
+155) Predator beast: name = Mbajym, weight = 5436, value = 0.111847
+156) Herbivores beast: name = Ysztxio, weight = 6891, value = 0.112901
+157) Lake fish: name = Das, weight = 2464, value = 0.113636
+158) Herbivores beast: name = Qqyfad, weight = 5382, value = 0.114084
+159) Lake fish: name = Wjfgtmlbdn, weight = 9103, value = 0.114138
+160) Sea Fish: name = Ooawqchm, weight = 7280, value = 0.114148
+161) Fly away bird: name = Spq, weight = 2680, value = 0.114925
+162) Herbivores beast: name = Tgjbixni, weight = 7213, value = 0.115209
+163) Fly away bird: name = Ezpzpbqb, weight = 7343, value = 0.115212
+164) Sea Fish: name = Iucehnlkjrh, weight = 9854, value = 0.115994
+165) Fly away bird: name = Szpalrgqi, weight = 8209, value = 0.116579
+166) Herbivores beast: name = Zthkh, weight = 4454, value = 0.116974
+167) Sea Fish: name = Jfamqvds, weight = 7069, value = 0.117131
+168) Lake fish: name = Npynxrsxvn, weight = 9467, value = 0.118094
+169) Sea Fish: name = Ktenrhlb, weight = 6993, value = 0.118118
+170) Sea Fish: name = Hrvtu, weight = 4519, value = 0.118832
+171) Stay home bird: name = Qwacufer, weight = 6935, value = 0.119683
+172) Sea Fish: name = Cyvngtiw, weight = 7140, value = 0.120308
+173) Sea Fish: name = Uwdsirrpri, weight = 8951, value = 0.120992
+174) Herbivores beast: name = Vtn, weight = 2569, value = 0.121448
+175) Fly away bird: name = Cngov, weight = 4181, value = 0.121741
+176) Stay home bird: name = Bdyx, weight = 3312, value = 0.122886
+177) Predator beast: name = Hobnihkryzt, weight = 9583, value = 0.123135
+178) Predator beast: name = Jgascdmyowu, weight = 9443, value = 0.123372
+179) Fly away bird: name = Bdrsjtq, weight = 5825, value = 0.125322
+180) Sea Fish: name = Brgjxcouya, weight = 8409, value = 0.125342
+181) Predator beast: name = Nehasqdbagg, weight = 8824, value = 0.125680
+182) Sea Fish: name = Hfqrhhev, weight = 6549, value = 0.126432
+183) Stay home bird: name = Oolrtfjz, weight = 6764, value = 0.126848
+184) Stay home bird: name = Euhksyskzv, weight = 8568, value = 0.127801
+185) Predator beast: name = Vweagqvc, weight = 6500, value = 0.128615
+186) Herbivores beast: name = Mbuekjvtdg, weight = 8090, value = 0.128925
+187) Stay home bird: name = Fvtdyhl, weight = 5707, value = 0.129140
+188) Predator beast: name = Gffbiy, weight = 4617, value = 0.129738
+189) Predator beast: name = Djtxhs, weight = 4844, value = 0.129851
+190) Fly away bird: name = Maueydted, weight = 7157, value = 0.129943
+191) Lake fish: name = Clarbvg, weight = 5403, value = 0.130483
+192) Lake fish: name = Cdtalby, weight = 5412, value = 0.130636
+193) Sea Fish: name = Dmkzvgzdkukl, weight = 9835, value = 0.130961
+194) Lake fish: name = Wwzsotu, weight = 6008, value = 0.130992
+195) Sea Fish: name = Iyanpvfeohq, weight = 8848, value = 0.131329
+196) Stay home bird: name = Qrojafufj, weight = 7102, value = 0.131794
+197) Fly away bird: name = Uzvduzo, weight = 5829, value = 0.132956
+198) Lake fish: name = Irm, weight = 2220, value = 0.133333
+199) Lake fish: name = Mgssmgrvi, weight = 7183, value = 0.133510
+200) Lake fish: name = Hncvcirq, weight = 6209, value = 0.133677
+201) Herbivores beast: name = Jmmrxkdjfvo, weight = 8745, value = 0.133791
+202) Stay home bird: name = Cwjjvmgvidoe, weight = 9263, value = 0.136349
+203) Lake fish: name = Lqstbs, weight = 4617, value = 0.137102
+204) Sea Fish: name = Aecdiygod, weight = 6595, value = 0.137225
+205) Stay home bird: name = Eivkmjjpm, weight = 6850, value = 0.137372
+206) Sea Fish: name = Qqiwjwcogh, weight = 7643, value = 0.138689
+207) Sea Fish: name = Qtoetqeuvj, weight = 7745, value = 0.139445
+208) Herbivores beast: name = Jmyixloiqqt, weight = 8558, value = 0.139635
+209) Fly away bird: name = Skufzmzaghhp, weight = 9136, value = 0.140324
+210) Lake fish: name = Sjtlzb, weight = 4506, value = 0.140479
+211) Herbivores beast: name = Haumjxzo, weight = 6078, value = 0.140507
+212) Stay home bird: name = Yoaiwlcfel, weight = 7377, value = 0.140843
+213) Fly away bird: name = Nvdpqgblerh, weight = 8111, value = 0.141659
+214) Stay home bird: name = Tdhmimfy, weight = 5846, value = 0.142662
+215) Stay home bird: name = Usybptmqet, weight = 7598, value = 0.142932
+216) Lake fish: name = Gnapflzqwl, weight = 7421, value = 0.143107
+217) Lake fish: name = Pynhktmrkd, weight = 7445, value = 0.143452
+218) Predator beast: name = Bjjldbwt, weight = 5674, value = 0.144343
+219) Lake fish: name = Qvbcgvr, weight = 5058, value = 0.144524
+220) Sea Fish: name = Nroolmrgg, weight = 6548, value = 0.145235
+221) Lake fish: name = Xwfamynij, weight = 6584, value = 0.145352
+222) Herbivores beast: name = Uxojrxdqrr, weight = 7494, value = 0.146384
+223) Stay home bird: name = Hzn, weight = 2074, value = 0.146577
+224) Predator beast: name = Jhdvaiyjc, weight = 6300, value = 0.146667
+225) Stay home bird: name = Glhx, weight = 2742, value = 0.146973
+226) Stay home bird: name = Aetmkdeoldo, weight = 7567, value = 0.149200
+227) Sea Fish: name = Blgsmgk, weight = 4764, value = 0.149244
+228) Predator beast: name = Jbmf, weight = 2539, value = 0.150847
+229) Lake fish: name = Dibzimgyh, weight = 6195, value = 0.150928
+230) Sea Fish: name = Rvnoddvyipki, weight = 8479, value = 0.152023
+231) Fly away bird: name = Lotgtzqjrd, weight = 7084, value = 0.152033
+232) Stay home bird: name = Gaxvtxe, weight = 4887, value = 0.152036
+233) Fly away bird: name = Lcbnj, weight = 3196, value = 0.153004
+234) Lake fish: name = Vbhpovhk, weight = 5469, value = 0.153593
+235) Predator beast: name = Ryukavitxvdg, weight = 8477, value = 0.153828
+236) Lake fish: name = Clilijzl, weight = 5314, value = 0.156003
+237) Stay home bird: name = Qzglunykwyc, weight = 7728, value = 0.156315
+238) Predator beast: name = Wjrhxqvzwg, weight = 7064, value = 0.156569
+239) Herbivores beast: name = Rjmrgkdrm, weight = 6017, value = 0.156889
+240) Predator beast: name = Oyr, weight = 1990, value = 0.157789
+241) Sea Fish: name = Tznbqfmoxeg, weight = 7392, value = 0.158685
+242) Stay home bird: name = Phsuou, weight = 4057, value = 0.158738
+243) Sea Fish: name = Khiwsnghv, weight = 5993, value = 0.159019
+244) Herbivores beast: name = Ofjmvzled, weight = 5938, value = 0.159144
+245) Sea Fish: name = Lzviagzpo, weight = 6021, value = 0.160438
+246) Lake fish: name = Fzdayoxviy, weight = 6711, value = 0.161675
+247) Sea Fish: name = Vikgvsmrgtqw, weight = 8068, value = 0.162122
+248) Herbivores beast: name = Mfkbueypmzbu, weight = 7861, value = 0.162956
+249) Herbivores beast: name = Fwxxx, weight = 3366, value = 0.163102
+250) Fly away bird: name = Oacecwssrp, weight = 6431, value = 0.163272
+251) Sea Fish: name = Guyotnckz, weight = 5961, value = 0.163395
+252) Fly away bird: name = Ovt, weight = 1910, value = 0.163874
+253) Predator beast: name = Espa, weight = 2358, value = 0.166667
+254) Sea Fish: name = Tkcwrlvvo, weight = 5865, value = 0.166752
+255) Stay home bird: name = Jrztjxauv, weight = 5865, value = 0.167775
+256) Stay home bird: name = Qhe, weight = 1699, value = 0.168334
+257) Sea Fish: name = Uvwyy, weight = 3330, value = 0.169369
+258) Predator beast: name = Ismqmathm, weight = 5552, value = 0.170209
+259) Predator beast: name = Donhhogijfnz, weight = 7368, value = 0.170467
+260) Sea Fish: name = Gsciakfavq, weight = 5992, value = 0.170895
+261) Stay home bird: name = Kyfhqrv, weight = 4340, value = 0.172120
+262) Lake fish: name = Gkktraz, weight = 4263, value = 0.172179
+263) Stay home bird: name = Rfcaupusiky, weight = 6797, value = 0.172723
+264) Stay home bird: name = Umgrfciiper, weight = 6606, value = 0.173933
+265) Sea Fish: name = Vauabytykns, weight = 6803, value = 0.174188
+266) Predator beast: name = Dcwwvkf, weight = 4193, value = 0.174577
+267) Lake fish: name = Vlspudsrdb, weight = 6097, value = 0.174676
+268) Lake fish: name = Zefkdr, weight = 3506, value = 0.175128
+269) Fly away bird: name = Mevgwhbsaj, weight = 5914, value = 0.175516
+270) Sea Fish: name = Aisaa, weight = 2721, value = 0.176038
+271) Herbivores beast: name = Qnqkxnpkbpch, weight = 7210, value = 0.176560
+272) Fly away bird: name = Hoxyrwgxercy, weight = 7443, value = 0.176676
+273) Herbivores beast: name = Lghrpht, weight = 4117, value = 0.177071
+274) Sea Fish: name = Oxvqoenlasud, weight = 7253, value = 0.177720
+275) Stay home bird: name = Mbqtbygnngpd, weight = 7009, value = 0.179912
+276) Herbivores beast: name = Tavby, weight = 2874, value = 0.180237
+277) Herbivores beast: name = Rhozhimwhlr, weight = 6553, value = 0.180375
+278) Sea Fish: name = Ydnloqddeb, weight = 5676, value = 0.181466
+279) Herbivores beast: name = Nugzqytui, weight = 5465, value = 0.181519
+280) Lake fish: name = Aahjvvdfio, weight = 5632, value = 0.182173
+281) Fly away bird: name = Optzlpq, weight = 4164, value = 0.182997
+282) Stay home bird: name = Bnctbheh, weight = 4355, value = 0.183238
+283) Predator beast: name = Jzmzuexif, weight = 5293, value = 0.183639
+284) Fly away bird: name = Vqbspc, weight = 3388, value = 0.183884
+285) Stay home bird: name = Qrnl, weight = 2244, value = 0.184046
+286) Fly away bird: name = Mtrqzwkgkhn, weight = 6451, value = 0.184778
+287) Herbivores beast: name = Eksgif, weight = 3235, value = 0.185781
+288) Predator beast: name = Pllxoeaqzb, weight = 5685, value = 0.186104
+289) Predator beast: name = Oazoqawmvzk, weight = 6402, value = 0.186504
+290) Stay home bird: name = Hgszj, weight = 2770, value = 0.187004
+291) Stay home bird: name = Qlpeslwcvyyx, weight = 7057, value = 0.187473
+292) Sea Fish: name = Vckktavu, weight = 4506, value = 0.187972
+293) Lake fish: name = Sdnmfkbw, weight = 4404, value = 0.188011
+294) Predator beast: name = Mroktujcftez, weight = 6840, value = 0.188304
+295) Fly away bird: name = Hcfll, weight = 2591, value = 0.188730
+296) Lake fish: name = Prqpliyrfexz, weight = 6900, value = 0.190145
+297) Stay home bird: name = Dguijgdz, weight = 4327, value = 0.190432
+298) Lake fish: name = Vjtbxplcpukr, weight = 6739, value = 0.192165
+299) Lake fish: name = Awxxaayzn, weight = 5040, value = 0.192659
+300) Stay home bird: name = Tnarhefl, weight = 4245, value = 0.193168
+301) Predator beast: name = Cvgcjnjm, weight = 4234, value = 0.193198
+302) Fly away bird: name = Gotoluefeaey, weight = 6501, value = 0.193355
+303) Predator beast: name = Ruzdkjordwk, weight = 6121, value = 0.193596
+304) Predator beast: name = Fexnzmszcjxx, weight = 6759, value = 0.194407
+305) Lake fish: name = Nivnkmhodlg, weight = 5791, value = 0.199102
+306) Predator beast: name = Dehby, weight = 2462, value = 0.199838
+307) Predator beast: name = Rtiohdscnie, weight = 5740, value = 0.200000
+308) Predator beast: name = Tpeaimkptupl, weight = 6364, value = 0.201131
+309) Fly away bird: name = Lhamliozg, weight = 4644, value = 0.201335
+310) Predator beast: name = Arcse, weight = 2441, value = 0.202376
+311) Predator beast: name = Dnkymssykotx, weight = 6516, value = 0.202578
+312) Predator beast: name = Cvzjq, weight = 2595, value = 0.202697
+313) Predator beast: name = Rsxsp, weight = 2668, value = 0.203898
+314) Stay home bird: name = Ufsnuitnlre, weight = 5793, value = 0.204212
+315) Sea Fish: name = Xtaxbbqcsupg, weight = 6244, value = 0.204356
+316) Herbivores beast: name = Tbrsdmo, weight = 3564, value = 0.205107
+317) Lake fish: name = Grobmverxo, weight = 5197, value = 0.205311
+318) Herbivores beast: name = Ugndokiqjwae, weight = 6111, value = 0.205695
+319) Stay home bird: name = Ahavdqstvxlt, weight = 6265, value = 0.205906
+320) Predator beast: name = Hncbecafcv, weight = 4827, value = 0.206132
+321) Lake fish: name = Qnamyhgtadjm, weight = 5993, value = 0.209077
+322) Lake fish: name = Porrncbtjad, weight = 5458, value = 0.209784
+323) Herbivores beast: name = Cioazwj, weight = 3443, value = 0.211153
+324) Fly away bird: name = Jjizubpxs, weight = 4554, value = 0.212780
+325) Lake fish: name = Lurqxxly, weight = 4176, value = 0.212883
+326) Stay home bird: name = Tkyqess, weight = 3539, value = 0.213620
+327) Herbivores beast: name = Rspheytq, weight = 4040, value = 0.213861
+328) Fly away bird: name = Azctapmrydcf, weight = 5780, value = 0.217301
+329) Predator beast: name = Pngeyttco, weight = 4395, value = 0.217747
+330) Sea Fish: name = Pvfbztomco, weight = 4894, value = 0.217818
+331) Lake fish: name = Jtpyiojp, weight = 3916, value = 0.218846
+332) Lake fish: name = Iralxnit, weight = 3848, value = 0.219075
+333) Sea Fish: name = Exgjwzgh, weight = 3845, value = 0.220026
+334) Predator beast: name = Kenmwfzxvhii, weight = 5845, value = 0.220701
+335) Stay home bird: name = Hzoaxgwkgfqj, weight = 5773, value = 0.220856
+336) Predator beast: name = Cmstpaxgitr, weight = 5303, value = 0.221384
+337) Fly away bird: name = Ulwihbvbbplq, weight = 5691, value = 0.222457
+338) Lake fish: name = Gbnowkqbhcyt, weight = 5500, value = 0.230364
+339) Herbivores beast: name = Ccmwlpvn, weight = 3594, value = 0.234279
+340) Lake fish: name = Fphzrpio, weight = 3585, value = 0.237099
+341) Lake fish: name = Lkhfgce, weight = 2845, value = 0.243234
+342) Sea Fish: name = Sbwejrqbd, weight = 3784, value = 0.246300
+343) Lake fish: name = Tlimxzpbr, weight = 3906, value = 0.248848
+344) Stay home bird: name = Cxosdexngaas, weight = 5014, value = 0.250499
+345) Stay home bird: name = Dxizkenbagwc, weight = 4981, value = 0.250753
+346) Fly away bird: name = Ois, weight = 1185, value = 0.252321
+347) Stay home bird: name = Tohwrzzdtpcm, weight = 5121, value = 0.256200
+348) Fly away bird: name = Ysmlhznhvr, weight = 4266, value = 0.256212
+349) Stay home bird: name = Hmfiulvoy, weight = 3756, value = 0.256390
+350) Predator beast: name = Scujq, weight = 1985, value = 0.260957
+351) Fly away bird: name = Wsdhtfdwwlte, weight = 4889, value = 0.263244
+352) Stay home bird: name = Yqehrkmbtj, weight = 4013, value = 0.263394
+353) Sea Fish: name = Hqkcmwsr, weight = 3215, value = 0.263764
+354) Herbivores beast: name = Pmxqgthimgq, weight = 4432, value = 0.265117
+355) Predator beast: name = Ksvrtrp, weight = 2870, value = 0.266202
+356) Fly away bird: name = Jgkmbzlaeso, weight = 4301, value = 0.266217
+357) Fly away bird: name = Ffpipkldiy, weight = 3900, value = 0.267179
+358) Sea Fish: name = Tneeafu, weight = 2646, value = 0.269085
+359) Stay home bird: name = Lzgoqusunbia, weight = 4750, value = 0.270316
+360) Predator beast: name = Uswka, weight = 1930, value = 0.270984
+361) Sea Fish: name = Tnzzchiabqlx, weight = 4726, value = 0.271265
+362) Fly away bird: name = Ksztnnvegzq, weight = 4431, value = 0.271948
+363) Lake fish: name = Kdaq, weight = 1408, value = 0.273438
+364) Lake fish: name = Urbzzbfj, weight = 3097, value = 0.273490
+365) Herbivores beast: name = Zffaksjjwc, weight = 3805, value = 0.274113
+366) Predator beast: name = Ilcpvljgg, weight = 3392, value = 0.274175
+367) Herbivores beast: name = Qoua, weight = 1477, value = 0.274882
+368) Predator beast: name = Ivtyrfq, weight = 2750, value = 0.275273
+369) Stay home bird: name = Vifxnzc, weight = 2694, value = 0.276169
+370) Lake fish: name = Xhfct, weight = 1806, value = 0.281838
+371) Lake fish: name = Kwgoyizlfe, weight = 3682, value = 0.289788
+372) Fly away bird: name = Ayulucfycp, weight = 3658, value = 0.290049
+373) Sea Fish: name = Rrfcsolk, weight = 2883, value = 0.290669
+374) Lake fish: name = Dfmrmvwlef, weight = 3611, value = 0.290778
+375) Stay home bird: name = Lnipq, weight = 1760, value = 0.293182
+376) Predator beast: name = Mnucjx, weight = 2145, value = 0.293240
+377) Fly away bird: name = Fyehinaznwhs, weight = 4328, value = 0.295287
+378) Fly away bird: name = Brmhyazvfsq, weight = 3984, value = 0.296436
+379) Fly away bird: name = Lloyxnxf, weight = 2920, value = 0.297260
+380) Predator beast: name = Nvanwbwmxg, weight = 3589, value = 0.298412
+381) Fly away bird: name = Pewcb, weight = 1660, value = 0.299398
+382) Lake fish: name = Ylhhud, weight = 2065, value = 0.301211
+383) Predator beast: name = Qjvmormowieh, weight = 4262, value = 0.302206
+384) Lake fish: name = Zhddkdghn, weight = 3023, value = 0.303672
+385) Fly away bird: name = Kjita, weight = 1643, value = 0.303713
+386) Stay home bird: name = Ndannhpjpwa, weight = 3735, value = 0.306560
+387) Sea Fish: name = Btwjjklgss, weight = 3444, value = 0.308072
+388) Lake fish: name = Ogsyrhzhkskg, weight = 4187, value = 0.309052
+389) Predator beast: name = Jylrxfybe, weight = 3064, value = 0.312990
+390) Predator beast: name = Ktfomvn, weight = 2351, value = 0.315185
+391) Sea Fish: name = Sxzugjgnzq, weight = 3427, value = 0.320689
+392) Fly away bird: name = Upfbjnpi, weight = 2576, value = 0.322205
+393) Sea Fish: name = Xcyimzoljbj, weight = 3621, value = 0.323944
+394) Fly away bird: name = Leuejt, weight = 1900, value = 0.324737
+395) Stay home bird: name = Tdgldlpgo, weight = 2794, value = 0.332498
+396) Sea Fish: name = Tnchawztujc, weight = 3502, value = 0.334951
+397) Fly away bird: name = Jxlajzwwxnx, weight = 3619, value = 0.335728
+398) Stay home bird: name = Qibhizva, weight = 2468, value = 0.336305
+399) Stay home bird: name = Rsydzebkf, weight = 2791, value = 0.339663
+400) Sea Fish: name = Wklkshvc, weight = 2483, value = 0.340314
+401) Fly away bird: name = Npeo, weight = 1165, value = 0.345064
+402) Sea Fish: name = Eapryqcjch, weight = 2947, value = 0.350865
+403) Fly away bird: name = Xpgsunfuulz, weight = 3384, value = 0.357861
+404) Lake fish: name = Nwvzjwmd, weight = 2397, value = 0.363371
+405) Lake fish: name = Psucxxrkcxel, weight = 3553, value = 0.365888
+406) Stay home bird: name = Rmviusubb, weight = 2605, value = 0.368138
+407) Fly away bird: name = Wikfk, weight = 1356, value = 0.374631
+408) Herbivores beast: name = Ytxtzgidecl, weight = 3131, value = 0.376557
+409) Predator beast: name = Ucrinsrg, weight = 2177, value = 0.388149
+410) Stay home bird: name = Kqiksmyjkbyd, weight = 3259, value = 0.391838
+411) Sea Fish: name = Sdu, weight = 761, value = 0.394218
+412) Stay home bird: name = Gqekwrms, weight = 2131, value = 0.398405
+413) Lake fish: name = Gbrmqln, weight = 1769, value = 0.408705
+414) Stay home bird: name = Uewvmkzqnz, weight = 2698, value = 0.409933
+415) Predator beast: name = Conlgb, weight = 1456, value = 0.410027
+416) Fly away bird: name = Kuotldjc, weight = 1997, value = 0.416625
+417) Fly away bird: name = Lkwidawwri, weight = 2496, value = 0.425080
+418) Herbivores beast: name = Befpxawssuvz, weight = 3061, value = 0.426005
+419) Fly away bird: name = Ccoygtksf, weight = 2196, value = 0.428506
+420) Herbivores beast: name = Wwuqbofhqkos, weight = 2997, value = 0.432766
+421) Lake fish: name = Wuodcomoxofz, weight = 2923, value = 0.444749
+422) Lake fish: name = Rxcdl, weight = 1109, value = 0.458972
+423) Herbivores beast: name = Xbglwonebshv, weight = 2771, value = 0.459401
+424) Lake fish: name = Lkljdmyfoo, weight = 2270, value = 0.462996
+425) Predator beast: name = Lltuaizknzrx, weight = 2819, value = 0.466123
+426) Stay home bird: name = Xjbfghbfyjkg, weight = 2629, value = 0.470901
+427) Lake fish: name = Qewyqvblckrz, weight = 2667, value = 0.487814
+428) Stay home bird: name = Ojd, weight = 582, value = 0.489691
+429) Sea Fish: name = Ngmjxotzmz, weight = 2193, value = 0.499772
+430) Fly away bird: name = Sulwnjuuyr, weight = 2196, value = 0.506375
+431) Sea Fish: name = Civhamdmhlzd, weight = 2434, value = 0.510682
+432) Predator beast: name = Mistzgxmfopq, weight = 2521, value = 0.517652
+433) Fly away bird: name = Qorjurbvfxrk, weight = 2498, value = 0.521217
+434) Herbivores beast: name = Qnk, weight = 571, value = 0.521891
+435) Sea Fish: name = Sxmehgpaljeh, weight = 2359, value = 0.529038
+436) Sea Fish: name = Fakinyq, weight = 1346, value = 0.537147
+437) Predator beast: name = Cytuigzibsxs, weight = 2342, value = 0.556789
+438) Herbivores beast: name = Aacycza, weight = 1245, value = 0.562249
+439) Fly away bird: name = Mizyvb, weight = 1107, value = 0.579042
+440) Fly away bird: name = Zsyiqliydg, weight = 1865, value = 0.579625
+441) Predator beast: name = Jkelhazwam, weight = 1788, value = 0.580537
+442) Stay home bird: name = Oyojugmvh, weight = 1630, value = 0.593865
+443) Stay home bird: name = Xyto, weight = 734, value = 0.594005
+444) Sea Fish: name = Acorybbjyq, weight = 1736, value = 0.602535
+445) Lake fish: name = Posldwfn, weight = 1331, value = 0.634861
+446) Herbivores beast: name = Obtxdmt, weight = 1139, value = 0.647937
+447) Lake fish: name = Ckrtfbv, weight = 1043, value = 0.692234
+448) Herbivores beast: name = Pyqvqjdla, weight = 1378, value = 0.693759
+449) Sea Fish: name = Gbdmgglbtxs, weight = 1640, value = 0.695732
+450) Sea Fish: name = Jfbx, weight = 557, value = 0.707361
+451) Sea Fish: name = Lhmkvtmcged, weight = 1551, value = 0.736299
+452) Predator beast: name = Cdcpegelg, weight = 1187, value = 0.753159
+453) Herbivores beast: name = Zwzpwpna, weight = 1147, value = 0.768091
+454) Sea Fish: name = Lewxfmlzdc, weight = 1314, value = 0.803653
+455) Stay home bird: name = Pqv, weight = 367, value = 0.847411
+456) Predator beast: name = Anatk, weight = 582, value = 0.850515
+457) Predator beast: name = Vsabjfxbghml, weight = 1450, value = 0.859310
+458) Herbivores beast: name = Fdophmwhgm, weight = 1206, value = 0.863184
+459) Sea Fish: name = Fpsrgecesob, weight = 1319, value = 0.863533
+460) Predator beast: name = Ponh, weight = 469, value = 0.863539
+461) Fly away bird: name = Qvkgmcqpb, weight = 1081, value = 0.869565
+462) Predator beast: name = Etms, weight = 424, value = 0.964623
+463) Sea Fish: name = Saowgnr, weight = 741, value = 0.994602
+464) Predator beast: name = Dcxmbhqpdyr, weight = 1155, value = 1.002597
+465) Stay home bird: name = Pvondkiouqcu, weight = 1251, value = 1.029576
+466) Lake fish: name = Dbrzytgf, weight = 801, value = 1.053683
+467) Stay home bird: name = Aprlozdvug, weight = 923, value = 1.159263
+468) Predator beast: name = Hhieyixovshq, weight = 1046, value = 1.232314
+469) Herbivores beast: name = Eugcaece, weight = 635, value = 1.237795
+470) Lake fish: name = Frmj, weight = 318, value = 1.254717
+471) Herbivores beast: name = Suhnkmbr, weight = 667, value = 1.262369
+472) Herbivores beast: name = Njjxoe, weight = 483, value = 1.287785
+473) Lake fish: name = Ujesdvytelm, weight = 836, value = 1.411483
+474) Herbivores beast: name = Obnikx, weight = 429, value = 1.442890
+475) Lake fish: name = Bbghqxlu, weight = 565, value = 1.467257
+476) Lake fish: name = Sibqbrwx, weight = 576, value = 1.475694
+477) Sea Fish: name = Fzqrfuqe, weight = 533, value = 1.598499
+478) Stay home bird: name = Fqqbvxiultd, weight = 712, value = 1.654494
+479) Sea Fish: name = Twecxsevk, weight = 573, value = 1.682373
+480) Lake fish: name = Btxbcufvtni, weight = 685, value = 1.703650
+481) Lake fish: name = Pdo, weight = 157, value = 1.853503
+482) Predator beast: name = Itgiofqc, weight = 437, value = 1.881007
+483) Sea Fish: name = Ulsfm, weight = 274, value = 1.894161
+484) Predator beast: name = Jycdnusbqffj, weight = 523, value = 2.403442
+485) Predator beast: name = Npngjfseqdi, weight = 411, value = 2.785888
+486) Lake fish: name = Wxmkcqjyx, weight = 352, value = 2.789773
+487) Lake fish: name = Lbremztfsl, weight = 380, value = 2.792105
+488) Lake fish: name = Cpfhskwcwtgr, weight = 446, value = 2.863229
+489) Lake fish: name = Uduturb, weight = 254, value = 2.940945
+490) Predator beast: name = Quqteevx, weight = 285, value = 3.042105
+491) Predator beast: name = Mjcxryar, weight = 248, value = 3.419355
+492) Herbivores beast: name = Xupcuivtlf, weight = 300, value = 3.606667
+493) Stay home bird: name = Fxylazbwyf, weight = 285, value = 3.782456
+494) Lake fish: name = Xsvmqbunh, weight = 254, value = 3.826772
+495) Sea Fish: name = Conlibwyme, weight = 271, value = 3.870849
+496) Lake fish: name = Aryrymv, weight = 190, value = 4.010526
+497) Sea Fish: name = Uckmxeiqj, weight = 204, value = 4.632353
+498) Herbivores beast: name = Vwqqczmtir, weight = 183, value = 5.989071
+499) Sea Fish: name = Rhvwnpyfxw, weight = 167, value = 6.628743
+500) Stay home bird: name = Ycfxkjixze, weight = 142, value = 7.542254
+Total time = 0.002706sec.

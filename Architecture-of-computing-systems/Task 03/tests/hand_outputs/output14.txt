@@ -1,0 +1,6 @@
+Filled container with 3 animals.
+Value sum = 28.13000.
+ ThirdFish   |  Fish  (   Ocean    )  100gr.  (value = 9.01000)
+ FirstFish   |  Fish  (    Lake    )  100gr.  (value = 9.14000)
+ SecondFish  |  Fish  (   River    )  100gr.  (value = 9.98000)
+Total time = 0.00198 seconds.

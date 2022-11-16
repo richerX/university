@@ -1,0 +1,35 @@
+﻿@model Message
+@{
+    ViewData["Title"] = "Сообщение";
+}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+<div class="text-center">
+
+    <h1 class="display-4">Сообщение ID @Model.Id</h1>
+    <br />
+    <p></p>
+
+    <div class="container-fluid row font-weight-bold">
+        Отправитель: @Model.SenderEmail (@Model.SenderName, ID @Model.SenderId)
+    </div>
+    <div class="container-fluid row font-weight-bold">
+        Получатель: @Model.ReceiverEmail (@Model.ReceiverName, ID @Model.ReceiverId)
+    </div>
+    <div class="container-fluid row font-weight-bold">
+        Тема сообщения: @Model.Subject
+    </div>
+    <br />
+
+    <div class="container-fluid row">
+        <small class="text-sm-center text-wrap text-truncate">
+            @Model.Text
+        </small>
+    </div>
+    <br />
+
+</div>
+

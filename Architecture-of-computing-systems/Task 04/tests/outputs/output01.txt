@@ -1,0 +1,5 @@
+Container contains 3 elements.
+1) Lake fish: name = New, weight = 7215, value = 0.041303
+2) Lake fish: name = Thfs, weight = 5851, value = 0.069219
+3) Stay home bird: name = Upknfcekuj, weight = 7676, value = 0.136269
+Total time = 0.000127sec.

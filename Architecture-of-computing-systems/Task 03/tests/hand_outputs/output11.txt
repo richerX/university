@@ -1,0 +1,4 @@
+Filled container with 1 animals.
+Value sum = 12.65000.
+OceanFishName |  Fish  (   Ocean    )  100gr.  (value = 12.65000)
+Total time = 0.00099 seconds.

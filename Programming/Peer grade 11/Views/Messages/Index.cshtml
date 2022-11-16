@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Message>
+@{
+    ViewData["Title"] = "Список сообщений";
+}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+<div class="text-center">
+
+    <h1 class="display-4">Список сообщений</h1>
+    <br />
+
+    <form asp-controller="Messages" asp-action="Index" method="get">
+        Email отправителя: <input type="text" name="senderEmail" /> &nbsp;
+        Email получателя: <input type="text" name="receiverEmail" /> &nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="submit" value="Поиск" />
+    </form>
+    <br />
+    <p></p>
+
+    <div class="container-fluid row font-weight-bold">
+        <div class="col-3">
+            Отправитель и получаетль
+        </div>
+        <div class="col-2">
+            Тема сообщения
+        </div>
+        <div class="col-6 text-wrap text-truncate">
+            Текст сообщения
+        </div>
+    </div>
+    <br />
+    <p></p>
+
+    @foreach (var message in Model)
+    {
+        <div class="container-fluid row">
+            <div class="col-3">
+                <small class="text-sm-left">
+                    Отправитель:<br />
+                    @message.SenderEmail<br />
+                    <br />
+                    Получатель:<br />
+                    @message.ReceiverEmail
+                </small>
+            </div>
+
+            <div class="col-2 font-weight-bold">
+                <a href="/messages/@message.Id">
+                    @message.Subject
+                </a>
+            </div>
+
+            <div class="col-6 text-wrap text-truncate">
+                <small class="text-sm-center">
+                    @message.Text
+                </small>
+            </div>
+        </div>
+        <br />
+        <p></p>
+    }
+</div>
+

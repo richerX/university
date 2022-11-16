@@ -1,0 +1,502 @@
+Filled container:
+Container contains 500 elements.
+1: It is Beast: name = Bbcfc, weight = 19768, value = 0.023472, type = HERBIVORES
+2: It is Bird : name = Ibjti, weight = 19994, value = 0.024907, fly away = TRUE
+3: It is Bird : name = Midjd, weight = 19431, value = 0.025115, fly away = TRUE
+4: It is Beast: name = Hhegy, weight = 19876, value = 0.025206, type = INSECTIVORES
+5: It is Beast: name = Lbopb, weight = 19467, value = 0.025428, type = HERBIVORES
+6: It is Bird : name = Ngepr, weight = 19950, value = 0.025464, fly away = FALSE
+7: It is Fish : name = Azeav, weight = 19699, value = 0.025534, place = SEA
+8: It is Bird : name = Edpfm, weight = 19265, value = 0.025539, fly away = TRUE
+9: It is Bird : name = Ojblk, weight = 19452, value = 0.025601, fly away = TRUE
+10: It is Fish : name = Hhtkb, weight = 19406, value = 0.025611, place = RIVER
+11: It is Beast: name = Aybsm, weight = 19723, value = 0.025757, type = HERBIVORES
+12: It is Beast: name = Rxcbm, weight = 19668, value = 0.025829, type = INSECTIVORES
+13: It is Beast: name = Ugnbf, weight = 19270, value = 0.025843, type = PREDATOR
+14: It is Fish : name = Crmeq, weight = 19377, value = 0.026010, place = SEA
+15: It is Bird : name = Lelfe, weight = 18759, value = 0.026014, fly away = TRUE
+16: It is Beast: name = Jjyfu, weight = 19985, value = 0.026020, type = INSECTIVORES
+17: It is Fish : name = Cfvth, weight = 19481, value = 0.026025, place = SEA
+18: It is Fish : name = Soihn, weight = 19711, value = 0.026026, place = RIVER
+19: It is Bird : name = Cnvih, weight = 19346, value = 0.026052, fly away = TRUE
+20: It is Beast: name = Qcmrh, weight = 19435, value = 0.026087, type = PREDATOR
+21: It is Bird : name = Iehcg, weight = 18300, value = 0.026230, fly away = TRUE
+22: It is Beast: name = Atyij, weight = 19535, value = 0.026261, type = HERBIVORES
+23: It is Fish : name = Onyki, weight = 19851, value = 0.026296, place = RIVER
+24: It is Fish : name = Sbgfg, weight = 18509, value = 0.026420, place = RIVER
+25: It is Fish : name = Wehum, weight = 19526, value = 0.026529, place = RIVER
+26: It is Bird : name = Urdpd, weight = 19216, value = 0.026592, fly away = FALSE
+27: It is Beast: name = Gamde, weight = 17938, value = 0.026647, type = PREDATOR
+28: It is Bird : name = Wypch, weight = 19597, value = 0.026688, fly away = FALSE
+29: It is Bird : name = Bfevo, weight = 18595, value = 0.026781, fly away = FALSE
+30: It is Beast: name = Kxbbh, weight = 18445, value = 0.026837, type = HERBIVORES
+31: It is Beast: name = Mmmwk, weight = 19403, value = 0.026852, type = HERBIVORES
+32: It is Fish : name = Iahgu, weight = 18390, value = 0.026862, place = LAKE
+33: It is Beast: name = Imffo, weight = 18485, value = 0.026887, type = HERBIVORES
+34: It is Fish : name = Evadp, weight = 18370, value = 0.027001, place = RIVER
+35: It is Bird : name = Osfti, weight = 19102, value = 0.027065, fly away = FALSE
+36: It is Fish : name = Zpfzq, weight = 19894, value = 0.027094, place = SEA
+37: It is Bird : name = Jnzgk, weight = 19005, value = 0.027151, fly away = TRUE
+38: It is Beast: name = Xhdov, weight = 19169, value = 0.027179, type = PREDATOR
+39: It is Beast: name = Godkp, weight = 18341, value = 0.027316, type = INSECTIVORES
+40: It is Bird : name = Rxhsm, weight = 19377, value = 0.027352, fly away = TRUE
+41: It is Bird : name = Aaytc, weight = 18180, value = 0.027393, fly away = FALSE
+42: It is Bird : name = Qqkcq, weight = 18705, value = 0.027426, fly away = TRUE
+43: It is Bird : name = Gohqz, weight = 18935, value = 0.027515, fly away = FALSE
+44: It is Bird : name = Lactr, weight = 18224, value = 0.027546, fly away = TRUE
+45: It is Bird : name = Acshf, weight = 17576, value = 0.027594, fly away = TRUE
+46: It is Beast: name = Xikrd, weight = 18604, value = 0.027628, type = HERBIVORES
+47: It is Bird : name = Lpnsi, weight = 18714, value = 0.027680, fly away = FALSE
+48: It is Bird : name = Enddr, weight = 17774, value = 0.027737, fly away = TRUE
+49: It is Bird : name = Tmhbv, weight = 18485, value = 0.027752, fly away = TRUE
+50: It is Bird : name = Mgpdp, weight = 18103, value = 0.027841, fly away = FALSE
+51: It is Beast: name = Xolrb, weight = 18589, value = 0.027920, type = INSECTIVORES
+52: It is Beast: name = Giscg, weight = 17541, value = 0.028106, type = PREDATOR
+53: It is Fish : name = Lotfl, weight = 18199, value = 0.028188, place = RIVER
+54: It is Bird : name = Msvif, weight = 18066, value = 0.028617, fly away = TRUE
+55: It is Fish : name = Feblx, weight = 17314, value = 0.028705, place = LAKE
+56: It is Fish : name = Zqxtv, weight = 19386, value = 0.028732, place = LAKE
+57: It is Fish : name = Vrttd, weight = 18477, value = 0.028793, place = RIVER
+58: It is Bird : name = Xvdpv, weight = 18613, value = 0.028797, fly away = TRUE
+59: It is Fish : name = Ywjxa, weight = 18411, value = 0.028841, place = RIVER
+60: It is Beast: name = Jddzt, weight = 17735, value = 0.028869, type = PREDATOR
+61: It is Fish : name = Pljkb, weight = 17278, value = 0.028881, place = SEA
+62: It is Bird : name = Tfwlk, weight = 17975, value = 0.028929, fly away = FALSE
+63: It is Beast: name = Xuglm, weight = 18135, value = 0.028950, type = INSECTIVORES
+64: It is Beast: name = Uwrua, weight = 18376, value = 0.028951, type = INSECTIVORES
+65: It is Fish : name = Tcgul, weight = 17615, value = 0.029009, place = RIVER
+66: It is Beast: name = Wucxo, weight = 18337, value = 0.029121, type = HERBIVORES
+67: It is Bird : name = Gegrk, weight = 16998, value = 0.029180, fly away = TRUE
+68: It is Beast: name = Rjksi, weight = 17631, value = 0.029210, type = INSECTIVORES
+69: It is Fish : name = Ptbwq, weight = 17986, value = 0.029245, place = RIVER
+70: It is Beast: name = Tshwl, weight = 18122, value = 0.029246, type = INSECTIVORES
+71: It is Fish : name = Forin, weight = 17427, value = 0.029265, place = SEA
+72: It is Beast: name = Uqwqy, weight = 18797, value = 0.029313, type = PREDATOR
+73: It is Beast: name = Nlbms, weight = 17261, value = 0.029431, type = INSECTIVORES
+74: It is Beast: name = Uizqb, weight = 17763, value = 0.029443, type = HERBIVORES
+75: It is Beast: name = Llzct, weight = 17685, value = 0.029460, type = INSECTIVORES
+76: It is Beast: name = Ixhhz, weight = 17737, value = 0.029486, type = INSECTIVORES
+77: It is Beast: name = Kemfg, weight = 16617, value = 0.029488, type = HERBIVORES
+78: It is Bird : name = Iafpi, weight = 16583, value = 0.029488, fly away = TRUE
+79: It is Fish : name = Zlqua, weight = 17798, value = 0.029498, place = OCEAN
+80: It is Fish : name = Tvtli, weight = 17991, value = 0.029515, place = LAKE
+81: It is Bird : name = Dhkwk, weight = 17109, value = 0.029517, fly away = TRUE
+82: It is Fish : name = Lvsri, weight = 17851, value = 0.029578, place = OCEAN
+83: It is Fish : name = Skvzj, weight = 18062, value = 0.029676, place = LAKE
+84: It is Fish : name = Vbkfk, weight = 16846, value = 0.029681, place = SEA
+85: It is Fish : name = Qgtgt, weight = 17454, value = 0.029735, place = LAKE
+86: It is Fish : name = Tmhmk, weight = 17225, value = 0.029782, place = OCEAN
+87: It is Beast: name = Scgyz, weight = 17673, value = 0.029876, type = HERBIVORES
+88: It is Beast: name = Xiila, weight = 16816, value = 0.029912, type = PREDATOR
+89: It is Beast: name = Xcgmn, weight = 16962, value = 0.030008, type = PREDATOR
+90: It is Beast: name = Yaovp, weight = 17561, value = 0.030010, type = INSECTIVORES
+91: It is Beast: name = Qiwnc, weight = 17090, value = 0.030076, type = INSECTIVORES
+92: It is Beast: name = Egwmb, weight = 16547, value = 0.030096, type = HERBIVORES
+93: It is Fish : name = Myswj, weight = 17849, value = 0.030142, place = SEA
+94: It is Bird : name = Blayb, weight = 16173, value = 0.030297, fly away = TRUE
+95: It is Beast: name = Nnxef, weight = 16761, value = 0.030487, type = PREDATOR
+96: It is Beast: name = Sygpb, weight = 16818, value = 0.030741, type = PREDATOR
+97: It is Fish : name = Pibvv, weight = 16879, value = 0.030748, place = RIVER
+98: It is Bird : name = Miwlv, weight = 17133, value = 0.030759, fly away = FALSE
+99: It is Bird : name = Cfttq, weight = 16665, value = 0.030843, fly away = TRUE
+100: It is Bird : name = Kpoqq, weight = 16921, value = 0.030967, fly away = FALSE
+101: It is Bird : name = Zpawt, weight = 17232, value = 0.030989, fly away = FALSE
+102: It is Fish : name = Gqkah, weight = 15862, value = 0.031018, place = SEA
+103: It is Fish : name = Ehalp, weight = 15781, value = 0.031050, place = RIVER
+104: It is Bird : name = Doopp, weight = 16486, value = 0.031178, fly away = FALSE
+105: It is Bird : name = Acros, weight = 16151, value = 0.031205, fly away = TRUE
+106: It is Beast: name = Uweol, weight = 16715, value = 0.031349, type = INSECTIVORES
+107: It is Beast: name = Nnbvd, weight = 16073, value = 0.031357, type = PREDATOR
+108: It is Beast: name = Kzgdy, weight = 16608, value = 0.031370, type = INSECTIVORES
+109: It is Fish : name = Enzkr, weight = 16551, value = 0.031539, place = OCEAN
+110: It is Fish : name = Amqqe, weight = 15832, value = 0.031645, place = RIVER
+111: It is Beast: name = Bavlw, weight = 16032, value = 0.031687, type = PREDATOR
+112: It is Fish : name = Ynwfa, weight = 16291, value = 0.031735, place = LAKE
+113: It is Bird : name = Xqrom, weight = 16811, value = 0.031824, fly away = FALSE
+114: It is Fish : name = Mvkkg, weight = 16041, value = 0.031918, place = OCEAN
+115: It is Fish : name = Peuor, weight = 16381, value = 0.031927, place = LAKE
+116: It is Beast: name = Cxadf, weight = 15216, value = 0.031940, type = INSECTIVORES
+117: It is Beast: name = Jrdls, weight = 15860, value = 0.032219, type = HERBIVORES
+118: It is Fish : name = Akkpb, weight = 15124, value = 0.032333, place = SEA
+119: It is Fish : name = Bsqdg, weight = 15353, value = 0.032372, place = SEA
+120: It is Fish : name = Yohfi, weight = 15684, value = 0.032581, place = SEA
+121: It is Fish : name = Ubfib, weight = 14975, value = 0.032588, place = RIVER
+122: It is Fish : name = Eopaj, weight = 15140, value = 0.032695, place = RIVER
+123: It is Bird : name = Eyysg, weight = 16179, value = 0.032697, fly away = FALSE
+124: It is Bird : name = Otcxk, weight = 15872, value = 0.032825, fly away = FALSE
+125: It is Beast: name = Coeuq, weight = 15492, value = 0.032856, type = PREDATOR
+126: It is Bird : name = Upopq, weight = 16213, value = 0.032875, fly away = FALSE
+127: It is Fish : name = Qptff, weight = 15558, value = 0.032973, place = RIVER
+128: It is Bird : name = Sosil, weight = 15741, value = 0.033162, fly away = TRUE
+129: It is Fish : name = Opznr, weight = 16148, value = 0.033255, place = OCEAN
+130: It is Beast: name = Ebkuy, weight = 15392, value = 0.033264, type = INSECTIVORES
+131: It is Beast: name = Ogqiy, weight = 15639, value = 0.033314, type = HERBIVORES
+132: It is Fish : name = Nfjxj, weight = 15332, value = 0.033394, place = OCEAN
+133: It is Bird : name = Zuwmp, weight = 16371, value = 0.033413, fly away = FALSE
+134: It is Fish : name = Jtrdk, weight = 15282, value = 0.033438, place = RIVER
+135: It is Fish : name = Jgrla, weight = 14732, value = 0.033668, place = LAKE
+136: It is Beast: name = Ztjdg, weight = 15246, value = 0.033779, type = HERBIVORES
+137: It is Bird : name = Ufaxf, weight = 14966, value = 0.033810, fly away = TRUE
+138: It is Fish : name = Outzl, weight = 16004, value = 0.033867, place = SEA
+139: It is Beast: name = Ljsqb, weight = 14988, value = 0.033894, type = HERBIVORES
+140: It is Beast: name = Aefjj, weight = 14152, value = 0.033917, type = PREDATOR
+141: It is Bird : name = Pjdot, weight = 15108, value = 0.033956, fly away = TRUE
+142: It is Bird : name = Urcea, weight = 14592, value = 0.033991, fly away = TRUE
+143: It is Bird : name = Horjz, weight = 15315, value = 0.034280, fly away = TRUE
+144: It is Bird : name = Chpqd, weight = 14364, value = 0.034531, fly away = FALSE
+145: It is Beast: name = Gzlwb, weight = 14969, value = 0.034605, type = PREDATOR
+146: It is Beast: name = Hvgnr, weight = 14928, value = 0.034633, type = HERBIVORES
+147: It is Bird : name = Oepmd, weight = 14427, value = 0.034727, fly away = FALSE
+148: It is Fish : name = Yeekr, weight = 14653, value = 0.034942, place = OCEAN
+149: It is Beast: name = Fmizr, weight = 14863, value = 0.034986, type = PREDATOR
+150: It is Fish : name = Yhatw, weight = 15005, value = 0.034988, place = RIVER
+151: It is Fish : name = Xltpb, weight = 14903, value = 0.035027, place = OCEAN
+152: It is Fish : name = Wzhwv, weight = 15680, value = 0.035077, place = SEA
+153: It is Beast: name = Bmrgm, weight = 14277, value = 0.035091, type = HERBIVORES
+154: It is Bird : name = Vvtnw, weight = 15534, value = 0.035342, fly away = TRUE
+155: It is Beast: name = Ycqee, weight = 14206, value = 0.035408, type = PREDATOR
+156: It is Fish : name = Pbngo, weight = 14151, value = 0.035475, place = LAKE
+157: It is Bird : name = Nnxdr, weight = 14712, value = 0.035481, fly away = TRUE
+158: It is Fish : name = Amhbn, weight = 13683, value = 0.035519, place = OCEAN
+159: It is Fish : name = Pbpmr, weight = 14432, value = 0.035546, place = LAKE
+160: It is Bird : name = Rrwiw, weight = 15163, value = 0.035547, fly away = TRUE
+161: It is Fish : name = Rfdvj, weight = 14289, value = 0.035552, place = OCEAN
+162: It is Bird : name = Iuakz, weight = 14375, value = 0.035896, fly away = TRUE
+163: It is Fish : name = Ekixh, weight = 14039, value = 0.035971, place = RIVER
+164: It is Bird : name = Afztg, weight = 13975, value = 0.036351, fly away = TRUE
+165: It is Bird : name = Csdtq, weight = 14038, value = 0.036401, fly away = FALSE
+166: It is Beast: name = Oeosw, weight = 14306, value = 0.036698, type = INSECTIVORES
+167: It is Beast: name = Vrmtl, weight = 14512, value = 0.036728, type = INSECTIVORES
+168: It is Beast: name = Ezser, weight = 14159, value = 0.036796, type = INSECTIVORES
+169: It is Fish : name = Zkrnt, weight = 14564, value = 0.036872, place = RIVER
+170: It is Beast: name = Qujnm, weight = 14165, value = 0.036922, type = HERBIVORES
+171: It is Bird : name = Omlrd, weight = 13801, value = 0.036954, fly away = FALSE
+172: It is Fish : name = Akntw, weight = 13948, value = 0.037066, place = SEA
+173: It is Fish : name = Phdzd, weight = 13639, value = 0.037099, place = LAKE
+174: It is Bird : name = Mwiwz, weight = 14599, value = 0.037126, fly away = TRUE
+175: It is Fish : name = Aobas, weight = 12933, value = 0.037578, place = LAKE
+176: It is Bird : name = Tztsw, weight = 14713, value = 0.037790, fly away = FALSE
+177: It is Beast: name = Ecrwc, weight = 13207, value = 0.037859, type = PREDATOR
+178: It is Beast: name = Ascsg, weight = 12850, value = 0.038677, type = HERBIVORES
+179: It is Bird : name = Fjimz, weight = 13205, value = 0.038773, fly away = TRUE
+180: It is Fish : name = Nlvqv, weight = 13737, value = 0.038946, place = SEA
+181: It is Fish : name = Wxcov, weight = 13711, value = 0.039020, place = RIVER
+182: It is Beast: name = Smobd, weight = 12799, value = 0.039144, type = INSECTIVORES
+183: It is Beast: name = Ibins, weight = 12796, value = 0.039153, type = PREDATOR
+184: It is Beast: name = Oyyiz, weight = 13989, value = 0.039174, type = HERBIVORES
+185: It is Bird : name = Auitm, weight = 13018, value = 0.039330, fly away = FALSE
+186: It is Beast: name = Bmgvg, weight = 12556, value = 0.039742, type = HERBIVORES
+187: It is Fish : name = Yvwxt, weight = 13946, value = 0.040298, place = SEA
+188: It is Beast: name = Fysra, weight = 12763, value = 0.040508, type = INSECTIVORES
+189: It is Fish : name = Uwehz, weight = 13033, value = 0.040743, place = RIVER
+190: It is Fish : name = Jkckh, weight = 11989, value = 0.040954, place = SEA
+191: It is Bird : name = Xyohg, weight = 12866, value = 0.040961, fly away = FALSE
+192: It is Beast: name = Crbfe, weight = 11694, value = 0.041218, type = HERBIVORES
+193: It is Bird : name = Uyaga, weight = 12200, value = 0.041230, fly away = FALSE
+194: It is Fish : name = Kwdpd, weight = 12200, value = 0.041475, place = SEA
+195: It is Beast: name = Tfobk, weight = 12030, value = 0.041729, type = HERBIVORES
+196: It is Fish : name = Ftiuy, weight = 12653, value = 0.041808, place = RIVER
+197: It is Fish : name = Kmpjr, weight = 12340, value = 0.041815, place = RIVER
+198: It is Beast: name = Aoqcm, weight = 11853, value = 0.041930, type = INSECTIVORES
+199: It is Bird : name = Atbsg, weight = 11812, value = 0.042076, fly away = FALSE
+200: It is Bird : name = Nitth, weight = 12283, value = 0.042254, fly away = FALSE
+201: It is Beast: name = Pmzod, weight = 12351, value = 0.042264, type = INSECTIVORES
+202: It is Fish : name = Ozyjm, weight = 12567, value = 0.042731, place = RIVER
+203: It is Bird : name = Ixcmm, weight = 11921, value = 0.042782, fly away = FALSE
+204: It is Fish : name = Posee, weight = 11823, value = 0.042967, place = RIVER
+205: It is Bird : name = Xxajj, weight = 11928, value = 0.043343, fly away = TRUE
+206: It is Fish : name = Fbztl, weight = 11791, value = 0.043593, place = RIVER
+207: It is Fish : name = Ptopk, weight = 11944, value = 0.044039, place = OCEAN
+208: It is Fish : name = Qllkj, weight = 11573, value = 0.044068, place = OCEAN
+209: It is Beast: name = Osjra, weight = 11595, value = 0.044071, type = INSECTIVORES
+210: It is Beast: name = Afect, weight = 10927, value = 0.044202, type = PREDATOR
+211: It is Beast: name = Miwgr, weight = 11696, value = 0.044289, type = HERBIVORES
+212: It is Bird : name = Iazea, weight = 11028, value = 0.044432, fly away = TRUE
+213: It is Bird : name = Dzday, weight = 11418, value = 0.044491, fly away = TRUE
+214: It is Beast: name = Cmekz, weight = 11361, value = 0.044538, type = INSECTIVORES
+215: It is Fish : name = Hvgou, weight = 11621, value = 0.044833, place = OCEAN
+216: It is Bird : name = Jepgq, weight = 11180, value = 0.044991, fly away = FALSE
+217: It is Bird : name = Uxcml, weight = 11518, value = 0.045234, fly away = FALSE
+218: It is Bird : name = Tegsf, weight = 11083, value = 0.045565, fly away = FALSE
+219: It is Bird : name = Gavuo, weight = 11250, value = 0.045689, fly away = FALSE
+220: It is Beast: name = Jyqkl, weight = 11393, value = 0.045905, type = HERBIVORES
+221: It is Beast: name = Krwpf, weight = 11343, value = 0.046020, type = HERBIVORES
+222: It is Fish : name = Jsfig, weight = 10828, value = 0.046084, place = RIVER
+223: It is Beast: name = Ctcrn, weight = 10967, value = 0.046138, type = PREDATOR
+224: It is Beast: name = Bwhwr, weight = 11270, value = 0.046318, type = HERBIVORES
+225: It is Beast: name = Bntan, weight = 10734, value = 0.046488, type = PREDATOR
+226: It is Beast: name = Fdffj, weight = 10308, value = 0.046566, type = HERBIVORES
+227: It is Beast: name = Wmwzc, weight = 11505, value = 0.046588, type = HERBIVORES
+228: It is Beast: name = Jehyz, weight = 11058, value = 0.047206, type = INSECTIVORES
+229: It is Bird : name = Hwuzu, weight = 11559, value = 0.047322, fly away = TRUE
+230: It is Beast: name = Zzfnb, weight = 11030, value = 0.047325, type = PREDATOR
+231: It is Fish : name = Tvhet, weight = 11041, value = 0.047369, place = LAKE
+232: It is Fish : name = Kgaft, weight = 10404, value = 0.047386, place = SEA
+233: It is Beast: name = Fqyhm, weight = 10906, value = 0.047405, type = INSECTIVORES
+234: It is Fish : name = Efoem, weight = 10356, value = 0.047509, place = OCEAN
+235: It is Fish : name = Ynwkk, weight = 11115, value = 0.047863, place = RIVER
+236: It is Bird : name = Umwni, weight = 10955, value = 0.048197, fly away = FALSE
+237: It is Beast: name = Huvcv, weight = 10843, value = 0.048326, type = HERBIVORES
+238: It is Fish : name = Cvyff, weight = 10500, value = 0.048571, place = OCEAN
+239: It is Beast: name = Huxrl, weight = 10898, value = 0.048725, type = INSECTIVORES
+240: It is Beast: name = Znxlr, weight = 11107, value = 0.048798, type = INSECTIVORES
+241: It is Beast: name = Msnxh, weight = 10752, value = 0.048921, type = PREDATOR
+242: It is Fish : name = Ibhwn, weight = 10286, value = 0.048999, place = RIVER
+243: It is Fish : name = Dgvnw, weight = 10495, value = 0.049357, place = SEA
+244: It is Beast: name = Paoxy, weight = 10677, value = 0.049546, type = HERBIVORES
+245: It is Beast: name = Xkuty, weight = 11059, value = 0.049643, type = INSECTIVORES
+246: It is Beast: name = Qsqlr, weight = 10617, value = 0.050014, type = INSECTIVORES
+247: It is Beast: name = Qunia, weight = 10189, value = 0.050054, type = PREDATOR
+248: It is Beast: name = Crnll, weight = 10128, value = 0.050059, type = PREDATOR
+249: It is Beast: name = Zexdw, weight = 10550, value = 0.050237, type = PREDATOR
+250: It is Bird : name = Tyaol, weight = 10325, value = 0.050460, fly away = FALSE
+251: It is Beast: name = Yorxq, weight = 10829, value = 0.050513, type = HERBIVORES
+252: It is Bird : name = Kdvzs, weight = 10491, value = 0.050519, fly away = FALSE
+253: It is Beast: name = Djwhz, weight = 10173, value = 0.051017, type = HERBIVORES
+254: It is Beast: name = Cebjz, weight = 9681, value = 0.051028, type = INSECTIVORES
+255: It is Bird : name = Cspln, weight = 10006, value = 0.051169, fly away = FALSE
+256: It is Bird : name = Tfnid, weight = 9746, value = 0.051406, fly away = TRUE
+257: It is Fish : name = Dswgr, weight = 10044, value = 0.051673, place = SEA
+258: It is Bird : name = Gcfzf, weight = 9565, value = 0.051856, fly away = FALSE
+259: It is Fish : name = Ylgep, weight = 9837, value = 0.052150, place = RIVER
+260: It is Bird : name = Evnzu, weight = 10269, value = 0.052196, fly away = TRUE
+261: It is Bird : name = Nyccx, weight = 9848, value = 0.052498, fly away = FALSE
+262: It is Bird : name = Fhubr, weight = 9573, value = 0.052544, fly away = FALSE
+263: It is Beast: name = Mbqxf, weight = 9678, value = 0.052697, type = HERBIVORES
+264: It is Beast: name = Gfmxv, weight = 9853, value = 0.052776, type = HERBIVORES
+265: It is Fish : name = Nxwbc, weight = 9737, value = 0.052788, place = OCEAN
+266: It is Beast: name = Gloic, weight = 9358, value = 0.052789, type = INSECTIVORES
+267: It is Bird : name = Ygowv, weight = 10204, value = 0.052920, fly away = FALSE
+268: It is Bird : name = Ivryr, weight = 9983, value = 0.054092, fly away = TRUE
+269: It is Bird : name = Pffha, weight = 8952, value = 0.054178, fly away = TRUE
+270: It is Fish : name = Gxcey, weight = 9416, value = 0.054376, place = SEA
+271: It is Fish : name = Mvrvr, weight = 9879, value = 0.054763, place = OCEAN
+272: It is Bird : name = Keimp, weight = 9166, value = 0.054768, fly away = TRUE
+273: It is Fish : name = Jlrip, weight = 9296, value = 0.055185, place = LAKE
+274: It is Bird : name = Qgxcn, weight = 9262, value = 0.055388, fly away = TRUE
+275: It is Beast: name = Teecd, weight = 8737, value = 0.055511, type = PREDATOR
+276: It is Fish : name = Iglmm, weight = 8928, value = 0.056228, place = RIVER
+277: It is Bird : name = Msbkn, weight = 8998, value = 0.056346, fly away = TRUE
+278: It is Fish : name = Hfrzd, weight = 9031, value = 0.056472, place = RIVER
+279: It is Fish : name = Ojtky, weight = 9366, value = 0.056481, place = SEA
+280: It is Bird : name = Hufwq, weight = 9236, value = 0.056626, fly away = TRUE
+281: It is Beast: name = Bbyzz, weight = 9338, value = 0.056650, type = PREDATOR
+282: It is Beast: name = Esecj, weight = 8617, value = 0.056864, type = INSECTIVORES
+283: It is Beast: name = Pjkjg, weight = 8818, value = 0.056929, type = PREDATOR
+284: It is Fish : name = Uudtb, weight = 9060, value = 0.056954, place = RIVER
+285: It is Fish : name = Ifqbr, weight = 8768, value = 0.057026, place = SEA
+286: It is Fish : name = Bzgdn, weight = 8729, value = 0.057395, place = RIVER
+287: It is Bird : name = Rcybn, weight = 8877, value = 0.057452, fly away = FALSE
+288: It is Fish : name = Kovql, weight = 9082, value = 0.057807, place = LAKE
+289: It is Fish : name = Mmhnw, weight = 8976, value = 0.057821, place = OCEAN
+290: It is Fish : name = Sopls, weight = 9122, value = 0.057992, place = RIVER
+291: It is Bird : name = Ilrjn, weight = 8780, value = 0.058200, fly away = FALSE
+292: It is Bird : name = Kbdyj, weight = 8538, value = 0.058562, fly away = TRUE
+293: It is Fish : name = Uemhy, weight = 8817, value = 0.058977, place = RIVER
+294: It is Bird : name = Yiipp, weight = 8866, value = 0.058989, fly away = TRUE
+295: It is Fish : name = Sgddj, weight = 8332, value = 0.059049, place = RIVER
+296: It is Fish : name = Dbkvz, weight = 8686, value = 0.059061, place = LAKE
+297: It is Beast: name = Srdbs, weight = 8556, value = 0.059607, type = HERBIVORES
+298: It is Beast: name = Gvnpg, weight = 8577, value = 0.059928, type = INSECTIVORES
+299: It is Beast: name = Wnxyj, weight = 8999, value = 0.060451, type = PREDATOR
+300: It is Bird : name = Rzvhd, weight = 8645, value = 0.060844, fly away = TRUE
+301: It is Bird : name = Jxxjh, weight = 8585, value = 0.061037, fly away = TRUE
+302: It is Beast: name = Vmxxs, weight = 8965, value = 0.061350, type = HERBIVORES
+303: It is Beast: name = Pwxyp, weight = 8949, value = 0.061683, type = PREDATOR
+304: It is Bird : name = Xakpn, weight = 8302, value = 0.061913, fly away = TRUE
+305: It is Beast: name = Nhnwo, weight = 8402, value = 0.062128, type = PREDATOR
+306: It is Beast: name = Fdfsu, weight = 8103, value = 0.062199, type = PREDATOR
+307: It is Beast: name = Jhqod, weight = 8047, value = 0.062383, type = PREDATOR
+308: It is Beast: name = Qfhqm, weight = 8154, value = 0.062423, type = HERBIVORES
+309: It is Bird : name = Imtap, weight = 8050, value = 0.062981, fly away = TRUE
+310: It is Beast: name = Pozwt, weight = 8651, value = 0.063345, type = HERBIVORES
+311: It is Bird : name = Bxtqn, weight = 8274, value = 0.063452, fly away = TRUE
+312: It is Beast: name = Kgsyl, weight = 8161, value = 0.063963, type = HERBIVORES
+313: It is Beast: name = Fegtc, weight = 7614, value = 0.064224, type = INSECTIVORES
+314: It is Fish : name = Zfgix, weight = 8086, value = 0.064309, place = LAKE
+315: It is Fish : name = Gykhp, weight = 7963, value = 0.064674, place = RIVER
+316: It is Bird : name = Zhjjo, weight = 7939, value = 0.065122, fly away = FALSE
+317: It is Beast: name = Mtnan, weight = 7803, value = 0.065359, type = INSECTIVORES
+318: It is Bird : name = Phpcu, weight = 7803, value = 0.065616, fly away = TRUE
+319: It is Bird : name = Nycgc, weight = 7565, value = 0.066094, fly away = FALSE
+320: It is Fish : name = Zwcih, weight = 7769, value = 0.066547, place = OCEAN
+321: It is Bird : name = Qkfvr, weight = 7691, value = 0.067872, fly away = TRUE
+322: It is Beast: name = Dantl, weight = 7313, value = 0.068235, type = INSECTIVORES
+323: It is Fish : name = Gafff, weight = 6924, value = 0.068458, place = LAKE
+324: It is Bird : name = Ugvxm, weight = 7787, value = 0.068704, fly away = TRUE
+325: It is Fish : name = Zfgsz, weight = 7704, value = 0.069055, place = OCEAN
+326: It is Beast: name = Hwxxb, weight = 7648, value = 0.069168, type = INSECTIVORES
+327: It is Bird : name = Rvcwx, weight = 7774, value = 0.069205, fly away = TRUE
+328: It is Bird : name = Mqbmo, weight = 7312, value = 0.069475, fly away = FALSE
+329: It is Fish : name = Ytxee, weight = 7479, value = 0.070464, place = RIVER
+330: It is Beast: name = Qjetv, weight = 7401, value = 0.070531, type = INSECTIVORES
+331: It is Bird : name = Ihrfc, weight = 6957, value = 0.070720, fly away = FALSE
+332: It is Bird : name = Urcdx, weight = 7300, value = 0.070959, fly away = FALSE
+333: It is Beast: name = Vbdlw, weight = 7124, value = 0.071729, type = INSECTIVORES
+334: It is Beast: name = Qzfqb, weight = 7162, value = 0.072047, type = HERBIVORES
+335: It is Bird : name = Eteui, weight = 7002, value = 0.072551, fly away = FALSE
+336: It is Fish : name = Qbstu, weight = 7178, value = 0.073419, place = RIVER
+337: It is Beast: name = Nglgq, weight = 6866, value = 0.073551, type = INSECTIVORES
+338: It is Bird : name = Feeyz, weight = 6838, value = 0.075314, fly away = TRUE
+339: It is Fish : name = Egydp, weight = 6694, value = 0.075441, place = RIVER
+340: It is Beast: name = Dfgjg, weight = 6212, value = 0.077592, type = HERBIVORES
+341: It is Beast: name = Gklmt, weight = 6568, value = 0.077801, type = HERBIVORES
+342: It is Fish : name = Tptwo, weight = 6960, value = 0.077874, place = LAKE
+343: It is Fish : name = Tkhoe, weight = 6509, value = 0.077892, place = RIVER
+344: It is Bird : name = Igepx, weight = 6456, value = 0.078841, fly away = FALSE
+345: It is Bird : name = Qmshx, weight = 6649, value = 0.079561, fly away = TRUE
+346: It is Beast: name = Jpcld, weight = 6196, value = 0.079567, type = INSECTIVORES
+347: It is Fish : name = Xytuu, weight = 7011, value = 0.079732, place = OCEAN
+348: It is Beast: name = Uohtn, weight = 6573, value = 0.080024, type = HERBIVORES
+349: It is Beast: name = Tkohd, weight = 6323, value = 0.080025, type = PREDATOR
+350: It is Bird : name = Smelm, weight = 6369, value = 0.080075, fly away = FALSE
+351: It is Fish : name = Eykbb, weight = 6147, value = 0.080202, place = SEA
+352: It is Beast: name = Mqpms, weight = 6558, value = 0.080207, type = PREDATOR
+353: It is Bird : name = Ocdpn, weight = 6201, value = 0.080632, fly away = FALSE
+354: It is Fish : name = Ndkhj, weight = 6126, value = 0.080803, place = SEA
+355: It is Beast: name = Tlzqb, weight = 6486, value = 0.080944, type = PREDATOR
+356: It is Beast: name = Ongbu, weight = 6214, value = 0.081590, type = PREDATOR
+357: It is Bird : name = Dnzib, weight = 6148, value = 0.081815, fly away = TRUE
+358: It is Bird : name = Njtpq, weight = 6391, value = 0.082147, fly away = FALSE
+359: It is Beast: name = Uexvq, weight = 6523, value = 0.082324, type = HERBIVORES
+360: It is Fish : name = Oylpp, weight = 6418, value = 0.082892, place = SEA
+361: It is Beast: name = Jtyco, weight = 6255, value = 0.083293, type = PREDATOR
+362: It is Beast: name = Zrghc, weight = 6100, value = 0.083607, type = PREDATOR
+363: It is Bird : name = Zqlmw, weight = 6380, value = 0.084483, fly away = TRUE
+364: It is Fish : name = Obntg, weight = 5939, value = 0.085200, place = SEA
+365: It is Fish : name = Shpjl, weight = 5929, value = 0.086524, place = RIVER
+366: It is Beast: name = Cxmkp, weight = 5807, value = 0.088686, type = HERBIVORES
+367: It is Fish : name = Aalzh, weight = 5568, value = 0.089080, place = SEA
+368: It is Fish : name = Zsstt, weight = 6196, value = 0.089090, place = SEA
+369: It is Fish : name = Xfkaz, weight = 5758, value = 0.089614, place = LAKE
+370: It is Fish : name = Iwnqk, weight = 5790, value = 0.090155, place = RIVER
+371: It is Fish : name = Owfne, weight = 5609, value = 0.091104, place = SEA
+372: It is Beast: name = Yqbnn, weight = 5629, value = 0.092379, type = INSECTIVORES
+373: It is Fish : name = Hajlq, weight = 5294, value = 0.093691, place = RIVER
+374: It is Beast: name = Fqokm, weight = 5413, value = 0.094218, type = PREDATOR
+375: It is Fish : name = Wmyua, weight = 5624, value = 0.094417, place = OCEAN
+376: It is Fish : name = Tcthl, weight = 5388, value = 0.094840, place = LAKE
+377: It is Beast: name = Qoqeg, weight = 5333, value = 0.095443, type = PREDATOR
+378: It is Beast: name = Jyich, weight = 5231, value = 0.096158, type = HERBIVORES
+379: It is Fish : name = Cswxc, weight = 5346, value = 0.097269, place = LAKE
+380: It is Fish : name = Cimgj, weight = 4997, value = 0.098059, place = OCEAN
+381: It is Bird : name = Iwvuz, weight = 5570, value = 0.098564, fly away = TRUE
+382: It is Fish : name = Mbvnn, weight = 5155, value = 0.099515, place = SEA
+383: It is Fish : name = Tsabx, weight = 5107, value = 0.100646, place = SEA
+384: It is Fish : name = Dzpmi, weight = 5078, value = 0.101615, place = RIVER
+385: It is Fish : name = Hzcdo, weight = 4931, value = 0.102211, place = LAKE
+386: It is Fish : name = Uxceb, weight = 4888, value = 0.102905, place = OCEAN
+387: It is Beast: name = Iqvmk, weight = 5021, value = 0.103565, type = INSECTIVORES
+388: It is Bird : name = Qbcjn, weight = 4759, value = 0.103803, fly away = FALSE
+389: It is Bird : name = Nwtfj, weight = 4998, value = 0.104242, fly away = FALSE
+390: It is Beast: name = Wswkt, weight = 5181, value = 0.104999, type = INSECTIVORES
+391: It is Bird : name = Vzepf, weight = 4865, value = 0.107503, fly away = TRUE
+392: It is Fish : name = Adldy, weight = 4514, value = 0.109437, place = RIVER
+393: It is Beast: name = Tbklp, weight = 4596, value = 0.110748, type = PREDATOR
+394: It is Fish : name = Xwybi, weight = 4702, value = 0.112931, place = LAKE
+395: It is Bird : name = Uempn, weight = 4524, value = 0.114279, fly away = FALSE
+396: It is Beast: name = Npzll, weight = 4616, value = 0.114385, type = INSECTIVORES
+397: It is Bird : name = Evunt, weight = 4597, value = 0.115293, fly away = TRUE
+398: It is Beast: name = Xrhac, weight = 4348, value = 0.115455, type = INSECTIVORES
+399: It is Fish : name = Jhtkr, weight = 4406, value = 0.116886, place = OCEAN
+400: It is Bird : name = Jaqds, weight = 4104, value = 0.121589, fly away = TRUE
+401: It is Bird : name = Rgpmk, weight = 4203, value = 0.122056, fly away = FALSE
+402: It is Fish : name = Akkij, weight = 4003, value = 0.122408, place = LAKE
+403: It is Fish : name = Hybrc, weight = 4047, value = 0.124537, place = OCEAN
+404: It is Beast: name = Byfya, weight = 4051, value = 0.125154, type = PREDATOR
+405: It is Beast: name = Pruuf, weight = 4225, value = 0.125444, type = HERBIVORES
+406: It is Fish : name = Mhfme, weight = 3920, value = 0.125765, place = LAKE
+407: It is Bird : name = Qzifa, weight = 4027, value = 0.125900, fly away = TRUE
+408: It is Beast: name = Wkqew, weight = 4134, value = 0.127479, type = PREDATOR
+409: It is Bird : name = Mdgro, weight = 3961, value = 0.127493, fly away = TRUE
+410: It is Beast: name = Maecv, weight = 3802, value = 0.129406, type = HERBIVORES
+411: It is Fish : name = Vavnj, weight = 3990, value = 0.129574, place = RIVER
+412: It is Beast: name = Ljfug, weight = 3809, value = 0.132318, type = HERBIVORES
+413: It is Beast: name = Qjpqz, weight = 4015, value = 0.133001, type = INSECTIVORES
+414: It is Bird : name = Dgxwv, weight = 3890, value = 0.135733, fly away = FALSE
+415: It is Bird : name = Kpomf, weight = 3742, value = 0.136024, fly away = TRUE
+416: It is Bird : name = Wjqlh, weight = 3789, value = 0.136712, fly away = TRUE
+417: It is Beast: name = Wrjca, weight = 3647, value = 0.137922, type = PREDATOR
+418: It is Beast: name = Tskwp, weight = 3889, value = 0.138082, type = INSECTIVORES
+419: It is Bird : name = Tiirv, weight = 3806, value = 0.138203, fly away = TRUE
+420: It is Beast: name = Fcnjx, weight = 3642, value = 0.138660, type = HERBIVORES
+421: It is Bird : name = Cgesi, weight = 3539, value = 0.138740, fly away = FALSE
+422: It is Beast: name = Cqzhe, weight = 3618, value = 0.140133, type = HERBIVORES
+423: It is Fish : name = Pcgyl, weight = 3629, value = 0.140810, place = LAKE
+424: It is Bird : name = Upkoy, weight = 3789, value = 0.141462, fly away = FALSE
+425: It is Fish : name = Hxhnn, weight = 3643, value = 0.141642, place = SEA
+426: It is Bird : name = Bndvf, weight = 3483, value = 0.142406, fly away = TRUE
+427: It is Bird : name = Hchoj, weight = 3390, value = 0.145133, fly away = FALSE
+428: It is Bird : name = Pcqxy, weight = 3618, value = 0.147319, fly away = TRUE
+429: It is Beast: name = Sfrgf, weight = 3242, value = 0.155460, type = HERBIVORES
+430: It is Bird : name = Rymvn, weight = 3318, value = 0.162749, fly away = FALSE
+431: It is Beast: name = Ipqkf, weight = 3110, value = 0.163023, type = HERBIVORES
+432: It is Fish : name = Dqgac, weight = 2908, value = 0.165062, place = SEA
+433: It is Bird : name = Qunes, weight = 3157, value = 0.165980, fly away = TRUE
+434: It is Beast: name = Gioej, weight = 2942, value = 0.167913, type = HERBIVORES
+435: It is Bird : name = Flwng, weight = 2967, value = 0.171891, fly away = TRUE
+436: It is Fish : name = Vhqka, weight = 2883, value = 0.175858, place = RIVER
+437: It is Bird : name = Afrid, weight = 2709, value = 0.179402, fly away = TRUE
+438: It is Bird : name = Pjdfc, weight = 2659, value = 0.183152, fly away = FALSE
+439: It is Bird : name = Bbaut, weight = 2652, value = 0.186275, fly away = TRUE
+440: It is Fish : name = Aqwyw, weight = 2824, value = 0.190156, place = RIVER
+441: It is Bird : name = Tagye, weight = 2639, value = 0.191739, fly away = FALSE
+442: It is Beast: name = Plhme, weight = 2580, value = 0.194574, type = HERBIVORES
+443: It is Beast: name = Pjekn, weight = 2587, value = 0.194820, type = HERBIVORES
+444: It is Beast: name = Zemhq, weight = 2621, value = 0.197253, type = HERBIVORES
+445: It is Fish : name = Annoh, weight = 2389, value = 0.209293, place = SEA
+446: It is Fish : name = Yfzsa, weight = 2350, value = 0.223404, place = SEA
+447: It is Bird : name = Yrpok, weight = 2337, value = 0.228070, fly away = FALSE
+448: It is Bird : name = Mlivb, weight = 2175, value = 0.232644, fly away = FALSE
+449: It is Bird : name = Iimzs, weight = 2248, value = 0.233096, fly away = FALSE
+450: It is Beast: name = Pnmuj, weight = 2154, value = 0.242340, type = HERBIVORES
+451: It is Beast: name = Mrpvd, weight = 2013, value = 0.258818, type = PREDATOR
+452: It is Bird : name = Qhmlc, weight = 1868, value = 0.268201, fly away = TRUE
+453: It is Beast: name = Zrqlb, weight = 1936, value = 0.270145, type = INSECTIVORES
+454: It is Bird : name = Mjvla, weight = 1849, value = 0.273661, fly away = TRUE
+455: It is Fish : name = Frruh, weight = 1864, value = 0.278433, place = SEA
+456: It is Fish : name = Bxldh, weight = 1716, value = 0.290210, place = LAKE
+457: It is Bird : name = Dcytj, weight = 1754, value = 0.290764, fly away = FALSE
+458: It is Bird : name = Qakoc, weight = 1499, value = 0.330220, fly away = TRUE
+459: It is Beast: name = Dfbfv, weight = 1462, value = 0.333789, type = HERBIVORES
+460: It is Bird : name = Vxgqd, weight = 1534, value = 0.340287, fly away = FALSE
+461: It is Bird : name = Slakq, weight = 1470, value = 0.345578, fly away = FALSE
+462: It is Bird : name = Gfity, weight = 1480, value = 0.347973, fly away = TRUE
+463: It is Beast: name = Zvihc, weight = 1432, value = 0.360335, type = INSECTIVORES
+464: It is Fish : name = Rnhab, weight = 1362, value = 0.360499, place = RIVER
+465: It is Fish : name = Brcvi, weight = 1378, value = 0.364296, place = RIVER
+466: It is Beast: name = Ubkvk, weight = 1393, value = 0.369706, type = HERBIVORES
+467: It is Fish : name = Fmvxf, weight = 1397, value = 0.371510, place = SEA
+468: It is Beast: name = Ddejf, weight = 1282, value = 0.372075, type = PREDATOR
+469: It is Beast: name = Ujpux, weight = 1451, value = 0.372157, type = HERBIVORES
+470: It is Beast: name = Mxlej, weight = 1372, value = 0.373178, type = PREDATOR
+471: It is Fish : name = Enrir, weight = 1328, value = 0.385542, place = LAKE
+472: It is Bird : name = Sjwwk, weight = 1381, value = 0.386676, fly away = TRUE
+473: It is Fish : name = Pxldi, weight = 1237, value = 0.414713, place = SEA
+474: It is Fish : name = Itynf, weight = 1232, value = 0.423701, place = RIVER
+475: It is Beast: name = Dconq, weight = 1093, value = 0.458371, type = INSECTIVORES
+476: It is Beast: name = Rcyzd, weight = 1137, value = 0.460862, type = PREDATOR
+477: It is Bird : name = Ezgcc, weight = 1058, value = 0.465028, fly away = FALSE
+478: It is Bird : name = Eyegr, weight = 1034, value = 0.491296, fly away = FALSE
+479: It is Fish : name = Pwrzp, weight = 1002, value = 0.545908, place = OCEAN
+480: It is Beast: name = Wkhbq, weight = 868, value = 0.586406, type = PREDATOR
+481: It is Beast: name = Bzbup, weight = 861, value = 0.598142, type = PREDATOR
+482: It is Beast: name = Goezi, weight = 846, value = 0.602837, type = HERBIVORES
+483: It is Beast: name = Cemwu, weight = 828, value = 0.619565, type = HERBIVORES
+484: It is Beast: name = Dcknn, weight = 755, value = 0.654305, type = INSECTIVORES
+485: It is Beast: name = Bccbv, weight = 654, value = 0.733945, type = HERBIVORES
+486: It is Beast: name = Ucmce, weight = 648, value = 0.760802, type = INSECTIVORES
+487: It is Fish : name = Sjpou, weight = 669, value = 0.790732, place = SEA
+488: It is Fish : name = Yqfaq, weight = 529, value = 0.971645, place = OCEAN
+489: It is Beast: name = Rwvxi, weight = 539, value = 1.009276, type = PREDATOR
+490: It is Fish : name = Ebnlr, weight = 482, value = 1.035270, place = RIVER
+491: It is Beast: name = Xpzeg, weight = 499, value = 1.054108, type = HERBIVORES
+492: It is Fish : name = Gdegy, weight = 461, value = 1.075922, place = SEA
+493: It is Fish : name = Gjcye, weight = 425, value = 1.171765, place = LAKE
+494: It is Bird : name = Lazny, weight = 408, value = 1.289216, fly away = FALSE
+495: It is Bird : name = Rrccp, weight = 329, value = 1.537994, fly away = TRUE
+496: It is Fish : name = Sibrh, weight = 288, value = 1.750000, place = OCEAN
+497: It is Beast: name = Qrwmk, weight = 295, value = 1.796610, type = HERBIVORES
+498: It is Bird : name = Fknns, weight = 224, value = 2.285714, fly away = FALSE
+499: It is Beast: name = Dvfsu, weight = 222, value = 2.342342, type = HERBIVORES
+500: It is Bird : name = Zoysy, weight = 205, value = 2.721951, fly away = FALSE

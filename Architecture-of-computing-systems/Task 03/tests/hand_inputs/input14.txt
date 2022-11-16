@@ -1,0 +1,3 @@
+0 FirstFish 100 0
+0 SecondFish 100 1
+0 ThirdFish 100 2

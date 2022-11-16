@@ -1,0 +1,4 @@
+Filled container with 1 animals.
+Value sum = 0.88000.
+ BeastName   |  Beast ( Herbivores )  1000gr. (value = 0.88000)
+Total time = 0.00050 seconds.

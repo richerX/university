@@ -1,0 +1,5 @@
+Container contains 3 elements.
+1) Sea Fish: name = ThirdFish, weight = 200, value = 4.505000
+2) Lake fish: name = FirstFish, weight = 100, value = 9.140000
+3) Sea Fish: name = SecondFish, weight = 100, value = 9.980000
+Total time = 0.000098sec.

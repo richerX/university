@@ -1,0 +1,23 @@
+Filled container with 20 animals.
+Value sum = 6.01203.
+    Pdv      |  Fish  (   River    )  6421gr. (value = 0.04641)
+    Cmzk     |  Bird  ( Stay home  )  8271gr. (value = 0.04897)
+   Pypjw     |  Beast (Insectivores)  8170gr. (value = 0.06585)
+   Onvjoy    |  Beast ( Herbivores )  7805gr. (value = 0.08264)
+  Dganskz    |  Beast ( Herbivores )  8525gr. (value = 0.08469)
+ Mclgbcqytt  |  Bird  ( Stay home  )  9146gr. (value = 0.11480)
+Buflcxozuyr  |  Beast ( Herbivores )  9978gr. (value = 0.11996)
+Czgabvbrgdvw |  Fish  (   Ocean    )  9557gr. (value = 0.13153)
+  Oeckdms    |  Bird  (  Fly away  )  5082gr. (value = 0.13971)
+Wlepqqnlxmqd |  Beast ( Herbivores )  9023gr. (value = 0.14341)
+Rtptdjfuedlh |  Beast (Insectivores)  6649gr. (value = 0.19010)
+Kuewvkpkadh  |  Beast (  Predator  )  4574gr. (value = 0.25295)
+Twrwnntnkaj  |  Bird  (  Fly away  )  4239gr. (value = 0.28120)
+ Ldjnbabinn  |  Bird  (  Fly away  )  2818gr. (value = 0.35841)
+   Trplow    |  Fish  (   Ocean    )  1727gr. (value = 0.37522)
+Fntksmeallm  |  Fish  (    Lake    )  2759gr. (value = 0.41682)
+   Inwma     |  Beast (  Predator  )  1080gr. (value = 0.47037)
+Wkytmlrcbprr |  Fish  (   River    )  1892gr. (value = 0.68658)
+    Nglk     |  Beast (Insectivores)  449gr.  (value = 0.88196)
+   Cirhg     |  Beast (Insectivores)  440gr.  (value = 1.12045)
+Total time = 0.00794 seconds.

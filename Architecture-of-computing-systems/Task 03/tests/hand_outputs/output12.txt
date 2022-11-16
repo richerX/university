@@ -1,0 +1,4 @@
+Filled container with 1 animals.
+Value sum = 7.75333.
+HomeBirdName |  Bird  ( Stay home  )  150gr.  (value = 7.75333)
+Total time = 0.00099 seconds.

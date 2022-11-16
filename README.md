@@ -4,20 +4,20 @@
 
 `Algebra-and-calculus` - Python Jupyter
 
-`Algorithms` - C++, Python _(временно _скрыто _по _просьбе _преподователей)
+`Algorithms` - C++, Python (временно скрыто по просьбе преподователей)
 
-`Architecture-of-computing-systems`
+`Architecture-of-computing-systems` - C, C++, Python, Nasm
 
-`Data-analysis` - Python Jupyter _(пока _не _готово) 
+`Data-analysis` - Python Jupyter (в разработке) 
 
-`Databases` - SQL (пока не готово)
+`Databases` - SQL (в разработке)
 
-`Data-structures` - C++ _(временно _скрыто _по _просьбе _преподователей)
+`Data-structures` - C++ (временно скрыто по просьбе преподователей)
 
 `Operating-systems` - C
 
 `Programming` - C#
 
-`Quality-assurance-and-testing` - Java _(пока _не _готово)
+`Quality-assurance-and-testing` - Java (в разработке)
 
 `Software-development` - Java

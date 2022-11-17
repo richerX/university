@@ -2,22 +2,24 @@
 
 ## Описание курсов
 
-`Algebra-and-calculus` - Python Jupyter
+`Algebra-and-calculus` [Python Jupyter]
 
-`Algorithms` - C++, Python (временно скрыто по просьбе преподователей)
+`Algorithms` [C++, Python] (скрыто по просьбе преподователей)
 
-`Architecture-of-computing-systems` - C, C++, Python, Nasm
+`Architecture-of-computing-systems` [C, C++, Python, Nasm]
 
-`Data-analysis` - Python Jupyter (в разработке) 
+`Computer-vision` [Python Jupyter]
 
-`Databases` - SQL (в разработке)
+`Data-analysis` [Python Jupyter]
 
-`Data-structures` - C++ (временно скрыто по просьбе преподователей)
+`Databases` [SQL]
 
-`Operating-systems` - C
+`Data-structures` [C++] (скрыто по просьбе преподователей)
 
-`Programming` - C#
+`Operating-systems` [C]
 
-`Quality-assurance-and-testing` - Java (в разработке)
+`Programming` [C#]
 
-`Software-development` - Java
+`Quality-assurance-and-testing` [Java]
+
+`Software-development` [Java]

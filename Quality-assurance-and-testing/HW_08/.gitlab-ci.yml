@@ -1,0 +1,25 @@
+
+image: maven:3.8-jdk-11
+
+stages: 
+  - build
+  - test
+
+build: 
+  stage: build
+  script: 
+    - mvn compile 
+  artifacts:
+    paths:
+      - target
+
+test: 
+  stage: test 
+  script: 
+    - mvn verify 
+    - mvn surefire-report:report
+  artifacts:
+    reports:
+      junit:
+        - target/surefire-reports/TEST-*.xml
+

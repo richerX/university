@@ -1,0 +1,16 @@
+version: "3.7"
+
+services:
+    postgres-library:
+        image: postgres:14.5
+        environment:
+            POSTGRES_DB: "KUNIN_205"
+            POSTGRES_USER: "KUNIN_205"
+            POSTGRES_PASSWORD: "KUNIN_205"
+            PGDATA: "/var/lib/postgresql/data/pgdata-my"
+        volumes:
+            - ./docker/data:/var/lib/postgresql/data
+            - ./docker/scripts:/docker-entrypoint-initdb.d
+            - ./docker/config/postgresql.conf:/var/lib/postgresql/data/pgdata/postgresql.conf
+        ports:
+            - "5432:5432"

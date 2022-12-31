@@ -1,0 +1,31 @@
+Все эти тесты также добавлены в проект
+
+@Test
+void testMutantDeposit() {
+    Account account = new Account();
+    assertTrue(account.deposit(0));
+    assertTrue(account.deposit(1000000));
+}
+
+@Test
+void testMutantWithdraw() {
+    Account account = new Account();
+    account.bound = 100;
+    assertTrue(account.withdraw(0));
+    assertTrue(account.withdraw(100));
+}
+
+@Test
+void testMutantUnblock() {
+    Account account = new Account();
+    account.withdraw(1000);
+    account.block();
+    assertTrue(account.unblock());
+}
+
+@Test
+void testMutantSetMaxCredit() {
+    Account account = new Account();
+    account.block();
+    assertTrue(account.setMaxCredit(-1000000));
+}

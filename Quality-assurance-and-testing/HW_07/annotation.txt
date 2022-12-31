@@ -1,0 +1,21 @@
+Кунин Илья, БПИ205
+
+1) StringIndexOutOfBoundsException
+Строка: 126
+До исправления: switch (sTmp.charAt(1))
+После исправления: switch (sTmp.charAt(0))
+
+2) UnsupportedOperationException
+Строка: 146
+До исправления: throw new UnsupportedOperationException("TODO: Не забыть реализовать оператор !");
+После исправления: throw new CalcException("TODO: Не забыть реализовать оператор !");
+
+3) NoSuchElementException
+Строка: 160
+До исправления: if (stack.size() > 1)
+После исправления: if (stack.size() != 1)
+
+4) NumberFormatException
+Строка: 155
+До исправления: catch (CalcException e)
+После исправления: catch (NumberFormatException e)

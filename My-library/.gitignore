@@ -1,0 +1,12 @@
+**/.idea/
+**/.env/
+**/venv/
+**/data/
+**/logs/
+**/build/
+**/personal/
+
+**/__pycache__
+**/.DS_Store
+**/.pytest_cache
+**/UNKNOWN.egg-info
